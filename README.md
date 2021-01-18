@@ -4,12 +4,15 @@ First off, THANK YOU for considering contributing to Scrum-Mastery:
 
 THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
-It’s people like you that make it such a great tool.
-Your contributions help make an Agile jpurney with Scrum better for everyone, developers and non-developers alike.
-Also is a great way to grow your skills and help others. Whatever your skill level, working on open-source is a great way to learn new things.
-Let's build upon each others ideas as we enable and encourage our teams to do.
-Make a suggestion, fix a bug, improve documentation, or contribute code to a project. Even asking questions helps.
+- It’s people like you that make it such a great tool.
+- Your contributions help make an Agile journey with Scrum better for everyone, developers and non-developers alike.
+- Also is a great way to grow your skills and help others. Whatever your skill level, working on open-source is a great way to learn new things.
+- Let's build upon each others ideas as we enable and encourage our teams to do.
+- Make a suggestion, fix a bug, improve documentation, or contribute code to a project. Even asking questions helps.
 
+As you have landed here, please make sure you familiarise yourself with:
+- The project licence file (Also accounts for any reference, use, view etc of this open-source project)
+- CONTRIBUTING & CODE_OF_CONDUCT files
 
 **Check out this quick tutorial to get you up and running with your first open-source contribution in less than 5 minutes: https://www.youtube.com/embed/dSl_qnWO104**
 1. Create a GitHub user if you do not have one
