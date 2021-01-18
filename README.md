@@ -18,6 +18,7 @@ As you have landed here, please make sure you familiarise yourself with:
 - **Antipatters** : Things to watch out for that may spoil the broth for your team
 - **Questions** : Powerful yet simple to help reflection, act as ignator, open posibilities, etc ultimately to serve the team. Good to have in your backpocket.
 - **Indicators** : How do we measure what works? Keeping Systems Thinking at hand so that signle metrics don't damage the goodness of the whole. Think of them as leading indicators of a healthy team/product/organisation
+Scrum ceremonies gives us rhythm and checkpoints, hence the idea to segregate the content on each of those.
 
 **Check out this quick tutorial to get you up and running with your first open-source contribution in less than 5 minutes: https://www.youtube.com/embed/dSl_qnWO104**
 1. Create a GitHub user if you do not have one
