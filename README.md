@@ -14,6 +14,11 @@ As you have landed here, please make sure you familiarise yourself with:
 - The project licence file (Also accounts for any reference, use, view etc of this open-source project)
 - CONTRIBUTING & CODE_OF_CONDUCT files
 
+**With the motto to keep things simple, we have a base folder structure by each Scrum ceremony in each a file containing:**
+- **Antipatters** : Things to watch out for that may spoil the broth for your team
+- **Questions** : Powerful yet simple to help reflection, act as ignator, open posibilities, etc ultimately to serve the team. Good to have in your backpocket.
+- **Indicators** : How do we measure what works? Keeping Systems Thinking at hand so that signle metrics don't damage the goodness of the whole. Think of them as leading indicators of a healthy team/product/organisation
+
 **Check out this quick tutorial to get you up and running with your first open-source contribution in less than 5 minutes: https://www.youtube.com/embed/dSl_qnWO104**
 1. Create a GitHub user if you do not have one
 2. Fork the repository (select the account you want to fork it to) - you will have a copy under you now
