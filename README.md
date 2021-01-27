@@ -22,6 +22,7 @@ As you have landed here, please make sure you familiarise yourself with:
 Scrum ceremonies gives us rhythm and checkpoints, hence the idea to segregate the content on each of those.
 //
 
+You may be new to GitHub, is a simple way to collaborate on content across multiple files and folders, without overriding each other work and building upon each other ideas. See below to get started:
 **Check out this quick tutorial to get you up and running with your first open-source contribution in less than 5 minutes: https://www.youtube.com/embed/dSl_qnWO104**
 1. Create a GitHub user if you do not have one
 2. Fork the repository (select the account you want to fork it to) - you will have a copy under you now
