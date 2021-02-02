@@ -2,7 +2,7 @@
 
 First off, THANK YOU for considering contributing to Scrum-Mastery:
 
-##THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
+## THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
 - It’s people like you that make it such a great tool.
 - Your contributions help make an Agile journey with Scrum better for everyone, developers and non-developers alike.
