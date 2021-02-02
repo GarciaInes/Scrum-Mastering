@@ -2,7 +2,7 @@
 
 First off, THANK YOU for considering contributing to Scrum-Mastery:
 
-THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
+##THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
 - It’s people like you that make it such a great tool.
 - Your contributions help make an Agile journey with Scrum better for everyone, developers and non-developers alike.
@@ -30,3 +30,5 @@ You may be new to GitHub, is a simple way to collaborate on content across multi
 4. Once you are ready > commit changes (use comments to briefly describe which changes for mantainer) & Push changes
 5. Create a Pull Request from Master (original repo) compare the changes
 6. The project mantainer will review changes and communicate for the best contribution it can be!
+
+Text and markdown files are perfect formats, see here [how to add formating]{https://guides.github.com/features/mastering-markdown/)
