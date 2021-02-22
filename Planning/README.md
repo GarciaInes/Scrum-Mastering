@@ -24,8 +24,8 @@ Any great team want to have predictability of cadence and come together with eve
 Things will evolve and change, laying out the work and define out goal and what we commit to achieve as a team is key.
 
 
-"Tendency to start things
-Start things it’s easy
-Finish is not
-Only finished things bring value
+"Tendency to start things.
+Start things it’s easy.
+Finish is not.
+Only finished things bring value.
 Having many in progress things do not" - Ines Garcia
