@@ -8,7 +8,7 @@ Please read the [Code of Conduct](https://github.com/GarciaInes/Scrum-Mastery/bl
 
 
 ### Git Commit Messages
- * Use Markdown
+ * Use Markdown, [here a cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
  * Use the present tense ("Add feature" not "Added feature")
  * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
  * Reference issues and pull requests liberally after the first line
