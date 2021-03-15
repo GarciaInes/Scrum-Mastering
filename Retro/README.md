@@ -21,3 +21,15 @@ In retros keep this in mind even read up to the team to set the tone:
 
 Gear conversations are to be productive because the content is democratically generated. Expectations of share and gain knowledge from others experience. 
 Maybe add this quote from Eleanor Roosevelt “Learn from the mistakes of others. You can't live long enough to make them all yourself.” - and is beyond mistakes, but wisdom of what also works. Rich experience where the value is in the individuals and the interactions that it will surface.  
+
+#### Be ready to:
+* Level up and give the opportunity to air space for everyone, all voices to be heard
+* That also mean manage to reduce the ones with tendency to “hoard the mic“
+* Use comparisons to light the conversation, from absolute statements to relative
+* We think to approach things differently. And that different take is super valuable!
+* Draw wisdowm vs knowledge
+* Fight the urge to react, instead be curios: ask questions, challenge status quo
+* Avoid “group think” https://en.wikipedia.org/wiki/Groupthink
+* Beware of confirmation bias
+* Act as a mirror to the room (behaviours)
+
