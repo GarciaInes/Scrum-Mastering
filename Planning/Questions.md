@@ -23,6 +23,7 @@
 * Is there a framework in place we could repurpose? take advantage of?
 * How did we solved similar items in the past?
 * Does anything like this already exist? Anywhere?
+* What are the top three area that it impacts?
 
 #### Validation
 * How would it be adopted? Can it be organic? 
@@ -32,3 +33,5 @@
 * Are we attempting to change user behavior? How could it be eased?
 * Does this introduce new patterns?
 * What are the traidoffs?
+* What reservations or concerns do you have?
+* What impact do we hope this will have?
