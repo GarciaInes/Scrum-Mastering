@@ -30,6 +30,12 @@
 * When you say ______, what do you mean?
 * What’s already working that you can build on?
 
+### Forward facing
+* What would you prefer happen next time
+* What outcome do you hope to get
+* How would you solve this problem next time
+* What would you like to see different about this situation
+* If this situation happens again, how should we react to it?
 
 
 Decide what to do: ie out of the insights everyone shared, what are highlights/tangible actions each is going to do after leaving the session. The value is not just in being present and participate but in the actions the conversation has prompted.
