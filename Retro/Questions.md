@@ -5,7 +5,7 @@ Before the retro, block sometime to think about:
 * What would the team be talking about?
 * What questions should you even be asking?
 
-
+### Get data & set scene
 
 * What is the context for it?
 * What context is relevant?
