@@ -1,6 +1,22 @@
 
+Questions in retrospective can make a big difference. What you want is to guide the discussion to a place the team haven't been before so that they can access new information. Where you add 'color' but not substance, meaning avoid infusing your opinion, thought process and solution ideas to them.
+
+Before the retro, block sometime to think about: 
+* What would the team be talking about?
+* What questions should you even be asking?
+
+
+
+* What is the context for it?
+* What context is relevant?
+* what is the surrounding environment?
 * What is the data telling us? Are there any obvious themes? How about patterns? Why is it significant?
 * Why is this experience significant?
+* What are the implications?
+* Why does it matter?
+* What explains whats happening? why?
+* What factors underlines it?
+* What causes it/helps make it happen?
 
 ### To help bring people in the conversation, try:
 * What is your take?
@@ -11,6 +27,7 @@
 * XX, if you were advising a friend on this (ie happier, safer whatever), what would you say to them?
 * What is here that you want to explore?
 * Imagine, it’s 30 days from now…what would you wish you had done today?
+* Whose perspective fo we have? which ones are we missing?
 
 ### To help bring content if the engagement/content is a bit stale:
 * Lets do a round, what is our shared context here?
@@ -23,6 +40,8 @@
 * What have we accomplished already?
 
 ### To go deeper:
+* What do you mean by ___?
+* Where and how is defined?
 * Can you help me understand what do you mean when you say ___?
 * What would a simpler way look like?
 * Can you tell me more about that?
@@ -33,9 +52,12 @@
 ### Forward facing
 * What would you prefer happen next time
 * What outcome do you hope to get
+* What is the desired impact?
 * How would you solve this problem next time
 * What would you like to see different about this situation
 * If this situation happens again, how should we react to it?
+* What are our options?
+* What possible futures exist here?
 
 
 Decide what to do: ie out of the insights everyone shared, what are highlights/tangible actions each is going to do after leaving the session. The value is not just in being present and participate but in the actions the conversation has prompted.
