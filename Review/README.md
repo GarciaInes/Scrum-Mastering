@@ -8,11 +8,11 @@ The Review is to inspect the outcome of the Sprint and determine future adaptati
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Review/Indicators) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/17073dfad8777e73dd1cd1bf1b3b23233713ac4e/Review/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Review/Questions) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/17073dfad8777e73dd1cd1bf1b3b23233713ac4e/Review/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Review/Antipatterns)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/17073dfad8777e73dd1cd1bf1b3b23233713ac4e/Review/Antipatterns.md)
 
 
 ## Be concise on updates of Achieved & surface Obstacles
