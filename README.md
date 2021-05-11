@@ -1,4 +1,4 @@
-# Scrum-Mastery
+# Scrum-Mastering
 
 First off, THANK YOU for considering contributing to Scrum-Mastery:
 
