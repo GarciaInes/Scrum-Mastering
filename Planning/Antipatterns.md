@@ -2,11 +2,11 @@
 ### “What is Sprint Planning”, Scrum,  
 https://www.scrum.org/resources/what-is-sprint-planning
 
-###### When planning sessions become ultra-marathons
-Remove the noise, focus on what matters
-One dimentional organised list work trhough top until *enough* to consume this cycle
-The team can always pull more in if finished (fully finished = deployable state by a simple button press)
-Reduce distractions, burden and overload
+* When planning sessions become ultra-marathons<br/>
+Remove the noise, focus on what matters<br/>
+One dimentional organised list work trhough top until *enough* to consume this cycle<br/>
+The team can always pull more in if finished (fully finished = deployable state by a simple button press)<br/>
+Reduce distractions, burden and overload<br/>
 
 ###### Too much to cope
 In line with ABOVE
