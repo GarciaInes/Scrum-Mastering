@@ -10,11 +10,11 @@ Covering: 1) Why is this Sprint valuable? & 2) What can be Done this Sprint?
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Planning/Indicators) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/754d1135a0cf0262abe7b457f0d9f47a7a559515/Planning/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Planning/Questions) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/754d1135a0cf0262abe7b457f0d9f47a7a559515/Planning/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Planning/Antipatterns)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/754d1135a0cf0262abe7b457f0d9f47a7a559515/Planning/Antipatterns.md)
 
 
 ## "In preparing for battle I have always found that plans are useless, but planning is indispensable." - Dwight D. Eisenhower
