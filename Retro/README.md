@@ -8,11 +8,11 @@ A retrospective is an internal event where all team members gather to catch up a
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Retro/Indicators) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/84dcd6cc78e66a350c4a571e08dc86d1fdcc30e5/Retro/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Retro/Questions) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/84dcd6cc78e66a350c4a571e08dc86d1fdcc30e5/Retro/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Retro/Antipatterns)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/84dcd6cc78e66a350c4a571e08dc86d1fdcc30e5/Retro/Antipatterns.md)
 
 
 In retros keep this in mind even read up to the team to set the tone: 
