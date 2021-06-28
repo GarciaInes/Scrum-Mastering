@@ -6,11 +6,11 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Daily/Indicators) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Daily/Questions) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/main/Daily/Antipatterns)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Antipatterns.md)
 
 
 ## Out of sight... out of mind. Reduce deviation focus on the goal
