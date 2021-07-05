@@ -6,7 +6,7 @@
 * Are the backlog items rounded value? ie can be used on its completion and iterate upon?
 
 ### INVEST: 
-#### *independent, negotiable, valuable, estimable, small, and testable work items ?
+#### * *independent, negotiable, valuable, estimable, small, and testable work items ?
 
 ### Team checks
 * The team has all skills needed to bring backlog items to Done?
