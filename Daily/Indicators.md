@@ -1,4 +1,7 @@
 
+As a Scrum Master, you do much more than JUST facilitate the meeting, you are an observer. 
+
+Here a list of questions for you to notice and instrospect:
 * Does the Whole team participate?
 * Are problems & impediments being surfaced?
 * Concise updates on what was Achieved last 24h & plan to Finish next 24h?
