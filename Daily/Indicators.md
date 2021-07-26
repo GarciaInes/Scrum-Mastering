@@ -11,3 +11,9 @@ Here a list of questions for you to notice and instrospect:
 * Do we hold each other accountable, for what we signed up to do?
 * Scope & bureaucracy creep are snapped nice & early
 * Team meets throughout the day for more detailed discussions & progress when needed
+
+At the end of the day, daily is there as a touch point for aligment and for the team to adjust their plan for the next 24h so that the Sprint Goal can in fact be achieved. Keeping time and quality fixed, whilst adjusting how to make it happen as a collective.
+* Is this happening?
+* Are the updates valuable for all team members?
+* Do the team jump in with comments/help to others updates?
+* Are outstanding items followed by the team after the daily?
