@@ -1,4 +1,4 @@
-
+#### Basics to observe
 * Are the commited changes / agreed experiments being implemented?
 * Are the raised issues being acted upon by the team members?
 * Are the team members holding each other accountable daily?
@@ -6,6 +6,7 @@
 * Are same items reapearing?
 * Are things "let go" whilst the issues are still present?
 
+#### Measure
 * Is the team getting better?
 * Is the process improving?
 * Is the product better?
@@ -16,6 +17,7 @@
 * Have we improved safety to deliver more often?
 * Have we improved safety to try things out?
 
+#### Team self-awareness
 * Is co-creation observed?
 * Are all voices being heard?
 * Is there time to innovate?
