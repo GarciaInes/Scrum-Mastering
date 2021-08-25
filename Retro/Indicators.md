@@ -1,3 +1,8 @@
+As a Scrum Master, you do much more than JUST facilitate the meeting, you are an observer of the system with the aim to help the system to find it's way to be it's best. 
+And you are definetely not to 'run' the meeting specially it's contents.
+
+Here some questions for you to notice and instrospect:
+
 #### Basics to observe
 * Are the commited changes / agreed experiments being implemented?
 * Are the raised issues being acted upon by the team members?
