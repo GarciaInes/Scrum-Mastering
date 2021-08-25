@@ -9,6 +9,11 @@ And you are definetely not to 'run' the meeting specially it's contents.
 ---: 
 ##### Ines Garcia
 
+|          ---: |
+| ### "Account for what’s important,  |
+| ### not just what you can count."   |
+| ##### Ines Garcia |
+
 What was the goal of the sprint? Start there, show the working product (not mocks) even better if the demo is done by the product manager OR by a user, someone that can go throught the new potential product motions.
 Ideally you embed in your product UX and monitoring, so upon review you can also present your real data of the new proposed featured. So that it can be assessed if to persevere or to pivot.
 
