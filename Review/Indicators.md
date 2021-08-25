@@ -26,7 +26,7 @@ Capture them, PO to consider and add in backlog > which subsequently needs to be
 
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
-* Is the demo of the product increment fully fleshed? (i.e not a mock)
+* Is the demo of the product increment fully fledged? (i.e not a mock)
 * Does the session deviate away from product increment review?
 
 #### Measure
