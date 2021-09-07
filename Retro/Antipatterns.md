@@ -6,6 +6,9 @@
 * Same old content coming up
 * Inattention to results
 * Absence of trust
+* Planning is based on 'activites' rather than deliverables
+* Estimates being commitments? Which problems does this cause? How can the team change this missconception/perception?
+* Multitasking, even beyond the retro. How does that affect the project? what could be done to reduce the negative impacts?
 
 *“You think that because you understand ‘one’ that you must therefore understand ‘two’ because one and one make two. But you forget that you must also understand ‘and’.” - Sufi teaching story* 
 
