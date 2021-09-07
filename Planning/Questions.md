@@ -5,6 +5,12 @@
 * What can we show as working product on Friday?
 * How could easiest document what we are about to do?
 
+#### Part of Planning is estimating, beaware ideal time and elapsed time are different things. 
+* What is our capacity? 
+* What is our focus work / uninterrupted?
+* How many elapsed hours of elapsed time we have a day?
+* What may help to improve it?
+
 
 ### How would it be done
 
