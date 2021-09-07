@@ -6,6 +6,7 @@
 * How could easiest document what we are about to do?
 
 #### Part of Planning is estimating, beaware ideal time and elapsed time are different things. 
+* Use relative estimation (not absolute) then compare to others, is this bigger or smaller? fetch input from all not just louder voices
 * What is our capacity? 
 * What is our focus work / uninterrupted?
 * How many elapsed hours of elapsed time we have a day?
