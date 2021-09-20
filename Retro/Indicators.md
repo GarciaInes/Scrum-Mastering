@@ -10,6 +10,7 @@ Here some questions for you to notice and instrospect:
 * Are items raised and worked on as it comes rather than waiting for the retro?
 * Are same items reapearing?
 * Are things "let go" whilst the issues are still present?
+* Do they discuss how they work together? with the intention to make it better?
 
 #### Measure
 * Is the team getting better?
@@ -21,6 +22,7 @@ Here some questions for you to notice and instrospect:
 * Have we improved our security?
 * Have we improved safety to deliver more often?
 * Have we improved safety to try things out?
+* When discussing problems, the team focus on those that are within their influence
 
 #### Team self-awareness
 * Is co-creation observed?
