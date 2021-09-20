@@ -13,6 +13,7 @@ Here a list of questions for you to notice and instrospect:
 #### Measure
 * Scope & bureaucracy creep are snapped nice & early
 * The team adjust & offers help when items are slowing the aim down
+* When someone finish a task, they check if they can help someone else to finish theirs.
 
 #### Team self-awareness
 * Does the Whole team participate?
