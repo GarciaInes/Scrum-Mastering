@@ -11,6 +11,7 @@ Here a list of questions for you to notice and instrospect:
 * Are problems & impediments being surfaced?
 
 #### Measure
+* Do they encourage each other to share work early, rather than wait for 'perfect'?
 * Scope & bureaucracy creep are snapped nice & early
 * The team adjust & offers help when items are slowing the aim down
 * When someone finish a task, they check if they can help someone else to finish theirs.
