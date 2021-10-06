@@ -1,6 +1,6 @@
 # Scrum-Mastering
 
-First off, THANK YOU for considering contributing to Scrum-Mastery:
+First of all off, THANK YOU for considering contributing to Scrum-Mastery:
 
 ## THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
