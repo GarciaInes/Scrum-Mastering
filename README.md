@@ -35,3 +35,5 @@ You may be new to GitHub, is a simple way to collaborate on content across multi
 6. The project mantainer will review changes and communicate for the best contribution it can be!
 
 Text and markdown files are perfect formats, see here [how to add formating](https://guides.github.com/features/mastering-markdown/)
+
+#### There isn't a better way to learn than to try!
