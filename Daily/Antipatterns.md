@@ -7,6 +7,10 @@ There isn't a rythm on when what how who
 ### Status Report
 * Antidote: Back to basics, reafirm the aim and benefit WIIIFM (What is in it for me)
 
+### Silos
+When team members talks about their ticket, their bit, you can observe the behaviour and reactions of the rest of the team. what does that tell you? where is the cohesiveness? where is the attentiveness? where is the enriching each other work?
+* Antidote: nothing work as well as act as a mirror, you can also ask questions and get others involved on related content from someone else 'update'
+
 ### Ticket Numbers
 Playing bingo calling ticket numbers rather than mentioning the value work
 * Antidote: shift to talk on what we work on, how could we help each other as we understandibly dont clutter our brain memorising useless ticket numbers. Talk VALUE to me.
