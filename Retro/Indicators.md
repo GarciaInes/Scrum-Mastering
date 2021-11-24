@@ -1,6 +1,9 @@
 As a Scrum Master, you do much more than JUST facilitate the meeting, you are an observer of the system with the aim to help the system to find it's way to be it's best. 
 And you are definetely not to 'run' the meeting specially it's contents.
 
+At the end of the day they ability for a team to improve their own process, is what makes it or breaks it. 
+There is the tendency that overtime teams with lack of guidance will land on dull retrospectives. Helping to revive the why and how of retros is a skill in itself and makes a huuuuge diference! 
+
 Here some questions for you to notice and instrospect:
 
 #### Basics to observe
