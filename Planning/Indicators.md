@@ -5,6 +5,7 @@ And you are definetely not to 'run' the meeting specially it's contents.
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
 * Does the Whole team participate?
+* Do some voices over rule others? how? why?
 * Are problems & impediments being surfaced?
 * Concise updates on what was Achieved last 24h & plan to Finish next 24h?
 * Gives clarity & progress as a whole towards the common goal
