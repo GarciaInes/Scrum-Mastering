@@ -37,3 +37,7 @@ You may be new to GitHub, is a simple way to collaborate on content across multi
 Text and markdown files are perfect formats, see here [how to add formating](https://guides.github.com/features/mastering-markdown/)
 
 #### There isn't a better way to learn than to try!
+
+With the recent release on Github web, once you have you own branch you can just type . (yes a full stop) and will open up this repository on web version that you can work from if you prefer, something like this:
+![Sample](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Sample%20Github%20Web.png)
+
