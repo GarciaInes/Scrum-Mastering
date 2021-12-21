@@ -15,10 +15,11 @@
 
 ### Antidotes
 * Set scene of problem solvers with a common challenge
-* Spend time BREAKING dependencies, rather than managing them. 
-* favour finishing over starting.
-* move to experiements over broad statements
-* craft time to enable space for actions options generations & selection
+* Spend time BREAKING dependencies, rather than managing them
+* Favour finishing over starting
+* Move to experiements over broad statements
+* Craft time to enable space for actions options generations & selection
+* Prompt to options diversification, encourage other points of view and reassure healthy challenges as part of the process to get to a better options/views
 
 #### New lens 
 Use Systems Thinking, its a way of looking at the world as series of interconnected webs (systems within systems and which are interacting and contradicting)
