@@ -43,3 +43,7 @@ when the daily becomes a wake up alarm
 Too many people who don't bring value
 * Antidote: refocus, thats for and by the team, anyone else or updates their input last 24h towards common goal and plan to finish next 24h towards common goal, or out. Reduce noise, bring focus.
 
+### Not my update not my problem
+do we actually listen to each other?
+* Antidote: pass the baton, at least helps to keep attention on who has given their update to nominate who goes next.
+
