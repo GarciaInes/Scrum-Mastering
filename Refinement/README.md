@@ -25,3 +25,9 @@ Do as little as needed, remember:
 
 ## The art of maximising the work not done
 
+Don't try to over do it, focus on the very top items in the backlog so that:
+1. they are still relevant
+2. 2 are in order of importance, urgency AND return
+3. sliced so that can be consumed at least 1 a day
+4. enough information to get us started
+5. clarity from all team what is about AND most importantly WHY
