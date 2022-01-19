@@ -1,4 +1,11 @@
 
+### Scope Creep
+Thank for new ideas, it's natural and healthy that those emerge!
+* Would this new idea/enhancement take over on the top items in the backlog?
+* We leave for the Product Owner to pick up on this.
+* We need to have a check on cost/time/impact/domino effect.
+* What would be dropped instead at this point?
+
 ### Blocked 
 * Who could help us with this challenge?
 * Whats the purpose of it?
