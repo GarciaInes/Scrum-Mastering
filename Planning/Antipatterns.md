@@ -25,6 +25,12 @@ Team can refine items during this process, which increases understanding & confi
 Seek input from all team is considered and responded to. <br/>
 Even if we disagree we commit.<br/>
 
+##### When planning is a continum of previous sprint<br/>
+Each item is up for pushing back into backlog, what we are really setting us up to do?<br/>
+What is the goal of this sprint? and what are the required 'pieces' for it to be achieved.<br/>
+Else can wait <br/>
+The Product Owner eill be a big help on this.<br/>
+
 ## “We plan, but recognize the limits of planning in a turbulent environment.” - Agile Manifesto
 
 ### WATCH OUT
