@@ -28,4 +28,13 @@ Lack of synch within the team, no clear idea
 Too many people who don't bring value
 * Antidote: refocus, thats for and by the team, anyone else either is helping towards the upcoming common goal or out. Reduce noise, bring focus.
 
+----------
+### Slicing Stories
+This it deserves a section of its own, in general terms you look for a tangible value that can be used in production. 
+When you focus work on activity over value delivered, thats what you get: tasks and volume activity. Instead of something released that can be used.
+* Antidote: use user stories to help briefly described the goal and the purpose of the thing, don't get into details that may or not be required to achieve so. 
+* Value finishing things over starting
+* Each story should contain all layers, from data base to business and user interface. 
+* If by the end of it it cant be used in production, there must be another way to slice it, perhaps leave 'validation' as a next iteration or 'results filtering' if you are working on a search story for example.
+
 
