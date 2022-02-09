@@ -18,6 +18,8 @@ Before the retro, block sometime to think about:
 * What factors underlines it?
 * What causes it/helps make it happen?
 
+Note (rather than a question): There are many unkowns/things are changing fast. This is complex stuff. So we will make mistakes, things will not go as expected, not everything will work.
+
 ### To help bring people in the conversation, try:
 * What is your take?
 * Whats on your mind?
@@ -28,6 +30,10 @@ Before the retro, block sometime to think about:
 * What is here that you want to explore?
 * Imagine, it’s 30 days from now…what would you wish you had done today?
 * Whose perspective fo we have? which ones are we missing?
+* (When you discuss something new/trikcy) This is totally new territory for us, so I'm going to need everyone's input.
+* Bob, you look concerned. Whats on your mind?
+* Jes, you haven't said much. Whats your take/ input?
+* LT, what are you hearing from home/train/road? 
 
 ### To help bring content if the engagement/content is a bit stale:
 * Lets do a round, what is our shared context here?
@@ -38,6 +44,7 @@ Before the retro, block sometime to think about:
 * What is the cost of not utilising it yet?
 * What is most useful to you as a team?
 * What have we accomplished already?
+* (only 1 option, break free) Okay, that's one side/option.. Let's hear some dissent/who's got something to add/let's have some give-and-take.
 
 ### To go deeper:
 * What do you mean by ___?
