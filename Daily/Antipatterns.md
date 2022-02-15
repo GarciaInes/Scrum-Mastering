@@ -47,3 +47,7 @@ Too many people who don't bring value
 do we actually listen to each other?
 * Antidote: pass the baton, at least helps to keep attention on who has given their update to nominate who goes next.
 
+### Diversion
+Talking about non 'goal' related stuff
+* Antidote: refocus, tweak the semantics to cover towards the goal. and kind reminders of not about the goal it doesnt exist?
+
