@@ -18,6 +18,8 @@ What was the goal?
 * increase on public reviews
 * purchased of a valuable/relevant add-on 
 
+If then in the Sprint Review the Product Owner does the show and tell and runs the demo, that’s even better! 
+
 A side of the product itself, the review it's a great opportunity to flash out what was committed and what was delivered.
 The gap in between calls for valuable interaction in review, do you need help? something is working particularly well? what is slowing you down?
 
