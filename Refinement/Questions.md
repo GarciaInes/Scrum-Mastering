@@ -5,6 +5,13 @@
 * Is the backlog 1 dimensional priority list?
 * Are the backlog items rounded value? ie can be used on its completion and iterate upon?
 
+### Story in question
+* If you could have this tomorrow what would include?
+* Thats the 'happy path' how else it could be used/called/triggered/handled?
+* Do we have enough info to get started?
+* How would we monitor how it performs?
+* How could that monitoring be proactive? (rather than the usual reacitve)
+
 ### INVEST: 
 #### * _independent, negotiable, valuable, estimable, small, and testable work items?_
 
