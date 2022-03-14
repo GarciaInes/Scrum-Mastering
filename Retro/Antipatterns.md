@@ -26,3 +26,7 @@ Use Systems Thinking, its a way of looking at the world as series of interconnec
 Systems have multiple layers of context and gives a metaview.
 We often foccus only on analysis, or whats call reductionism, decompose and check each part isolated. When a single part optimization is not enough use Synthesis specially when thre is high interconnectivity and relationships rather than describe with static properties (as analysis would do)
 Check for Elements and Connections, as a system causes its own behaviour. Find small leavers that can make a big difference, a positive one beyond your team.
+
+#### Timing is everything
+Are the retros poorly attended? Sometimes can simply be because the meeting is at a bad time or on a bad day. Have you asked?
+When would it be good moment in each cadence to do it? (not 'if' to do it, but 'when' to do it)
