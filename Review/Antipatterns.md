@@ -22,6 +22,13 @@ Observe behaviour, are we collaborating beyond ones boundries, is there always t
 Too big of baglock, covering too much in one seating should be an energising review of top items in the backlog. <br/>
 After all the review is a working session not a talkshow/presentation. 
 
+##### Boring!
+Either the lack of attendance start showing, or the energy in the room is fading, or the review feel is dragging... Spice it up! 
+* Instead of a 1 direction demo, you can even put it in hands of a stakeholder to play with it and see what surfaces! 
+* Rather than showing a boring bug fix just update thats the case and move on value functionality, 
+* show your tangible progress as a team and do it so with passion. 
+* Have afine line for dragging discussions diverting the focus of the session, park them and follow up later (the PO is a great champion to do so)
+
 ## “Working software is the primary measure of progress.” - Agile Manifesto
 
 ### WATCH OUT
