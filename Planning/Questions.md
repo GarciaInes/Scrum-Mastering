@@ -1,7 +1,9 @@
 
 ### What can be committed
 
-* Minimum to get us started
+* What can we feasibly consume?
+* What is the minimum to get us started?
+* Do we have enough to get started?
 * What can we show as working product on Friday?
 * How could easiest document what we are about to do?
 
