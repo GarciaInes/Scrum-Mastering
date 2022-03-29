@@ -9,6 +9,6 @@ As a Scrum Master, you need to be in alert to reduce waste as soon as it appears
 * You can use tools such as Actionable Agile
 * You can create your own charts with the differente states in your workflow in your x axis and the # of days in the y axis
 
-### What to look for?
+#### What to look for?
 * Try to find those issues that are taking longer or close to than your average Cycle Time
 * Unblock them ASAP so you respect your WIP limits
