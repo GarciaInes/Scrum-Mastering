@@ -15,6 +15,8 @@ Here a list of questions for you to notice and instrospect:
 * Scope & bureaucracy creep are snapped nice & early
 * The team adjust & offers help when items are slowing the aim down
 * When someone finish a task, they check if they can help someone else to finish theirs.
+* Account for side tracked mentions pof 'other things' not goal
+* Note on volume activity updates rather the value achieved (it's just too easy to be 'busy')
 
 #### Team self-awareness
 * Does the Whole team participate?
