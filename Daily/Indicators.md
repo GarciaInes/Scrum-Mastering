@@ -24,6 +24,12 @@ Here a list of questions for you to notice and instrospect:
 * Are team members surface when is not clear the progress/feasibility of that common goal?
 * Do we hold each other accountable, for what we signed up to do?
 
+#### Aging Work in Progress
+Is the amount of time an unfinished task has (usually measured in days), it helps us identify issues that are staled
+* Try to find those issues that are taking longer or close to than your average Cycle Time
+* You can create your own charts with the differente states in your workflow in your x axis and the # of days in the y axis
+
+
 At the end of the day, daily is there as a touch point for aligment and for the team to adjust their plan for the next 24h so that the Sprint Goal can in fact be achieved. Keeping time and quality fixed, whilst adjusting how to make it happen as a collective.
 * Is this happening?
 * Are the updates valuable for all team members?
