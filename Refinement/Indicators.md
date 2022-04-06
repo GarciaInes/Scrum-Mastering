@@ -8,6 +8,8 @@ Here a list of questions for you to notice and instrospect:
 * PO focus on impact/value (rather than 'move buttom 3 mm to the right)
 * Does the team ask questions to clarify?
 * Are team members surface when is not clear the progress/feasibility of goals?
+* Is there engagement about the aim of the items at hand?
+* Are the discussions around the purpose/what to achieve?
 
 #### Measure
 * Are the pending clarifications sorted by Planning?
