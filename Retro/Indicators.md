@@ -32,7 +32,8 @@ Here some questions for you to notice and instrospect:
 * Are all voices being heard?
 * Is there time to innovate?
 * Is there eagerness to try new things?
-* Do team members fight the urge to react? instead be curios: ask questions, challenge status quo
-
+* Do team members fight the urge to react? 
+* instead be curios: ask questions, challenge status quo
 * Is the team aware of their own progress to make their process better?
+
 As a scrum master it's useful to recap past items. As individuals we often don't realise nor give ourselves credit for what we have achieved.
