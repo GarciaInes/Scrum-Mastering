@@ -30,6 +30,7 @@ Here a list of questions for you to notice and instrospect:
 #### Basics to observe
 * Is the demo of the product increment fully fledged? (i.e not a mock)
 * Does the session deviate away from product increment review?
+* Is the PO demoing? (ie anyone besides who developed it and tested)
 
 #### Measure
 * Voiced leveled up
@@ -38,6 +39,6 @@ Here a list of questions for you to notice and instrospect:
 * Who demos? and how often?
 
 #### Team self-awareness
-* Does the whole team participate>
+* Does the whole team participate?
 * Does the session get hijacked by stakeholders?
 * Who shows up and how often?
