@@ -44,3 +44,6 @@
 * What are the traidoffs?
 * What reservations or concerns do you have?
 * What impact do we hope this will have?
+* What are the assumptions that we are making?
+* What else could this be/could we investigate/have left out?
+* What may be in our way?
