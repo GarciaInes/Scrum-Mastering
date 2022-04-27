@@ -66,6 +66,19 @@ Note (rather than a question): There are many unkowns/things are changing fast. 
 * What are our options?
 * What possible futures exist here?
 
+### Safety
+* This is totally new territory for us, so I am going to need everyone's input.
+* There are many unknowns/things changing fast/this is complex stuff. so we all make mistakes.
+* What are the assumptions that we are making?
+* What else could this be/could we investigate/have left out?
+* What may be in our way?
+* Ok, thats one side, let's hear some dissent. who's got something to add? lets have some give-take.
+* Bob, what are you hearing that resonates?/concerns? (bring people into the conversation)
+* Ddi everything go as smoothly as we would have liked?
+* What were friction points?
+* Are there systems we should retool?
+* I really appreciate your bringing this to the table, I'm sure it wasn't easy.
+
 
 Decide what to do: ie out of the insights everyone shared, what are highlights/tangible actions each is going to do after leaving the session. The value is not just in being present and participate but in the actions the conversation has prompted.
 
