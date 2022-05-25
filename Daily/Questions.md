@@ -8,6 +8,7 @@
 * Do I have clarity on our weekly common goal?
 * Does the whole team fully engages and chips in to help others?
 * I'm clear on what my team had achieved since last huddle and the plan to finish that day
+* Is achieving the goal feasible? what may hinger us along the way?
 
 
 ### Diversion
