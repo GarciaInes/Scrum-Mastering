@@ -51,3 +51,9 @@
 * Where does our funding for this solution come from?
 * Why is our team uniquely positioned to win?
 
+#### Gaps
+* Why do you think this is known when I think it is unknown?
+* Why do you believe this is important when I believe it is unimportant?
+* What are the intended and unintended consequences of this product or service feature?
+* Within these intended and unintended consequences, which are positive?
+* Within these intended and unintended consequences, which are negative?
