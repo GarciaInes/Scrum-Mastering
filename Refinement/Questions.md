@@ -43,3 +43,11 @@
 * Who are the primary competitors to our solution?
 * How will our solution generate revenue?
 
+#### Feasible?
+* What are our biggest technical or engineering challenges?
+* What are our biggest legal or regulatory risks?
+* What are our internal governance or policy hurdles?
+* Why does our leadership team supports this solution?
+* Where does our funding for this solution come from?
+* Why is our team uniquely positioned to win?
+
