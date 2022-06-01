@@ -35,3 +35,11 @@
 * What is the outcome our customers want to achieve?
 * Why will our customers stop using their current solution?
 
+#### Viable?
+* What are our main acquisition channels for obtaining new customers?
+* How will our customers repeatedly use our solution?
+* Why will our customers refer us to new customers?
+* How does this solution support our company vision?
+* Who are the primary competitors to our solution?
+* How will our solution generate revenue?
+
