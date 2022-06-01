@@ -33,6 +33,8 @@
 * How did we solved similar items in the past?
 * Does anything like this already exist? Anywhere?
 * What are the top three area that it impacts?
+* Who will be affected by this change?
+* How would we monitor its performance?
 
 #### Validation
 * How would it be adopted? Can it be organic? 
