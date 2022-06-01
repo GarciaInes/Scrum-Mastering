@@ -25,3 +25,13 @@
 * Team members not locked into specific roles (anyone can pull work / no pre-assignment)
 * Does everyone know if the release plan still matches reality? 
 * is that release plan visible & easy to digest?
+
+### Bigger Picture
+#### Desirable?
+* Who are the target customers for our solution?
+* What problem do our customers want to solve? 
+* How do our customers solve this problem today?
+* Why can’t our customers solve this problem today?
+* What is the outcome our customers want to achieve?
+* Why will our customers stop using their current solution?
+
