@@ -65,6 +65,8 @@ Note (rather than a question): There are many unkowns/things are changing fast. 
 * If this situation happens again, how should we react to it?
 * What are our options?
 * What possible futures exist here?
+* What would be one more way to solve it?
+* How else we could influence it?
 
 ### Safety
 * This is totally new territory for us, so I am going to need everyone's input.
