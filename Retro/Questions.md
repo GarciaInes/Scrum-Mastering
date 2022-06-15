@@ -56,6 +56,12 @@ Note (rather than a question): There are many unkowns/things are changing fast. 
 * When you say ______, what do you mean?
 * What’s already working that you can build on?
 
+### Assumption mapping
+Reality check when coming up with tangible actions:
+* Desirable: Do they want this? (us and or other dependent parties)
+* Feasible: Can we do this? (time, energy, headspace, accesses and tools ...)
+* Viable: Should we do this?
+
 ### Forward facing
 * What would you prefer happen next time
 * What outcome do you hope to get
