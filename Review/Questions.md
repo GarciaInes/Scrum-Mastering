@@ -1,4 +1,13 @@
 
+### Feedback
+Prompt thoughts to stakeholders and all who joined the demo review session:
+* How do you feel about this increment? Why is that?
+* What do you think is the next logical step?
+* What do you think is the next fun (customer lovable) enhancement?
+* If you could change one thing, what would it be? why?
+* What other product on the market should we learn from? Why?
+* How can we better our future reviews?
+
 ### Scope Creep
 Thank for new ideas, it's natural and healthy that those emerge!
 * Would this new idea/enhancement take over on the top items in the backlog?
