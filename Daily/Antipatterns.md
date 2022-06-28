@@ -10,6 +10,7 @@ There isn't a rythm on when what how who
 * Antidote: Get that muscle memory going! Same time, same place, for & by the team, max 15 mins alignment.
 
 ### Status Report
+When it misses the point of what a daily is about
 * Antidote: Back to basics, reafirm the aim and benefit WIIIFM (What is in it for me)
 
 ### Silos
