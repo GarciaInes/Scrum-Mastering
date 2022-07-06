@@ -1,6 +1,6 @@
 In the Scrum framework the **Refinenment** is one of the check points added the latests as an often practice that happens couple days before the start of a new cycle/sprint. 
 
-SEMANTICS: There is a reason to use the word Refinement instead of 'grooming' as in certain cultures comes with quite negative connotations, the words that we use are important so that we don't just throw people off but we enhance what and why we are doing.
+SEMANTICS: There is a reason to use the word **Refinement** instead of 'grooming' as in certain cultures comes with quite negative connotations, the words that we use are important so that we don't just throw people off but we enhance what and why we are doing.
 
 ## Strategy is a commodity, execution is an art. – Peter Drucker
 
