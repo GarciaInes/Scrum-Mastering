@@ -30,4 +30,4 @@ Finish is not.
 Only finished things bring value.
 Having many in progress things do not" - Ines Garcia
 
-One useful thing to review at start of Planning is the Definition of Done, that encompasses all work items (user stories or not). Having clarity on the extend we commit things to be 'done' will enrich the conversation about to start in Planning.
+#### One useful thing to review at start of Planning is the Definition of Done, that encompasses all work items (user stories or not). Having clarity on the extend we commit things to be 'done' will enrich the conversation about to start in Planning.
