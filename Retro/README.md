@@ -33,4 +33,4 @@ Maybe add this quote from Eleanor Roosevelt “Learn from the mistakes of others
 * Beware of confirmation bias
 * Act as a mirror to the room (behaviours)
 
-#### RETROS DONT HAVE TO BE BORING! Check out latest invention [**www.birdsnerdsandturds.com**] (www.birdsnerdsandturds.com)
+#### RETROS DONT HAVE TO BE BORING! Check out latest invention [**www.birdsnerdsandturds.com**] 
