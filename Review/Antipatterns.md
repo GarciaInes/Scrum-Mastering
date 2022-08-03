@@ -14,6 +14,7 @@ Focus on concise updates on achieved and also the review is a great place to sur
 
 ##### Too big pieces of work
 How can the core value be delivered to focus on what brings the most return with the least effort/time?
+Beaware of 'almost done' work, the review is a great opportunity to surface items that havent been completed and why. Things change, more is discovered, thats ok. Don't fake it.
 
 ##### Silos
 Observe behaviour, are we collaborating beyond ones boundries, is there always the same showing the product? or the section of a product?
