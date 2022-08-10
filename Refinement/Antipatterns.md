@@ -36,5 +36,6 @@ When you focus work on activity over value delivered, thats what you get: tasks 
 * Value finishing things over starting
 * Each story should contain all layers, from data base to business and user interface. 
 * If by the end of it it cant be used in production, there must be another way to slice it, perhaps leave 'validation' as a next iteration or 'results filtering' if you are working on a search story for example.
+* Avoid stories to be a segment of technology only rather than something can actually be used once completed. If it cant be in use even deployed has not ability to add value.
 
 
