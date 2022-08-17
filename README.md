@@ -24,6 +24,8 @@ Scrum ceremonies gives us rhythm and checkpoints, hence the idea to segregate th
 //
 
 ### How to contribute to an Open-Project
+Please stick with the folder and file structure, adjust the content you want to add in line with those. 
+
 A guide to making open source contributions, for first-timers and for veterans. [Check this!](https://opensource.guide/how-to-contribute/)
 
 You may be new to GitHub, is a simple way to collaborate on content across multiple files and folders, without overriding each other work and building upon each other ideas. See below to get started:
