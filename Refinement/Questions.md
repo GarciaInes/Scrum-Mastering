@@ -26,6 +26,8 @@
 * Does everyone know if the release plan still matches reality? 
 * is that release plan visible & easy to digest?
 
+An often flaw on the Refinement is from PO perspective asking closed questions such as "is this clear?" Move to other tactiques to ensure there is clarity on the Backlog Item in question, such as "could you play back whats this story about?"
+
 ### Bigger Picture
 #### Desirable?
 * Who are the target customers for our solution?
