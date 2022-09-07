@@ -20,6 +20,8 @@
 * Move to experiements over broad statements
 * Craft time to enable space for actions options generations & selection
 * Prompt to options diversification, encourage other points of view and reassure healthy challenges as part of the process to get to a better options/views
+* Focus on collectively chose 1-2 actions to start trying out next day (least for maximum return)
+* Make it fun! sprinkle a bit of laughter can help ease and open minds which enables looking at constrains and reocurring issues with new lens
 
 #### New lens 
 Use Systems Thinking, its a way of looking at the world as series of interconnected webs (systems within systems and which are interacting and contradicting)
