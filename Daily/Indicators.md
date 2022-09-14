@@ -3,6 +3,7 @@ As a Scrum Master, you do much more than JUST facilitate the meeting, you are an
 
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
+* within 15 mins?
 * punctual?
 * same time same place
 * constant rhythm?
