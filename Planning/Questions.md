@@ -13,6 +13,7 @@
 * What is our focus work / uninterrupted?
 * How many elapsed hours of elapsed time we have a day?
 * What may help to improve it?
+* Are we accounting for Done-Done? (ie review the definition of Done against each story the team wants to commit, is it feasible?)
 
 
 ### How would it be done
