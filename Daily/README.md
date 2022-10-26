@@ -8,7 +8,7 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 
 * What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/97fc31bc24dc116a8c828bb3224dddb3006efb02/Daily/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Questions.md) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/60640c209cb0dadab06e834331e72b57e04c9338/Daily/Questions.md) can you ask to help your team?
 
 * Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Antipatterns.md)
 
