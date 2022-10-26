@@ -10,7 +10,7 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 
 * Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/60640c209cb0dadab06e834331e72b57e04c9338/Daily/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Antipatterns.md)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/8244d30191f7262a0933d60a65da2515290086cd/Daily/Antipatterns.md)
 
 
 ## Out of sight... out of mind. Reduce deviation focus on the goal
