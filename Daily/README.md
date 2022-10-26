@@ -6,7 +6,7 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Indicators.md) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/97fc31bc24dc116a8c828bb3224dddb3006efb02/Daily/Indicators.md) can measure to know where you stand?
 
 * Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/9776877183430d4ee310950a9317113e87205094/Daily/Questions.md) can you ask to help your team?
 
