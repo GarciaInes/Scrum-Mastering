@@ -23,6 +23,9 @@ As you have landed here, please make sure you familiarise yourself with:
 Scrum ceremonies gives us rhythm and checkpoints, hence the idea to segregate the content on each of those.
 //
 
+### A little video for visual learners
+Check this short intro out: [https://youtu.be/B_2zPRtcfZY](https://youtu.be/B_2zPRtcfZY)
+
 ### How to contribute to an Open-Project
 Please stick with the folder and file structure, adjust the content you want to add in line with those. 
 
