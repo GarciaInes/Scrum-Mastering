@@ -12,9 +12,9 @@ The Refinement gives the opportunityt to the team to check top items in the back
 
 * What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Refinement/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Questions.md) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Refinement/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Antipatterns.md)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Refinement/Antipatterns.md)
 
 
 ## The aim is to have enough to get us started
