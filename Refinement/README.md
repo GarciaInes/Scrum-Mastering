@@ -10,11 +10,11 @@ The Refinement gives the opportunityt to the team to check top items in the back
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastery/blob/6bc6c02c02c8b196e5f84879edff5e7c996d731d/Refinement/Indicators.md) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Indicators.md) can measure to know where you stand?
 
-* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastery/blob/6bc6c02c02c8b196e5f84879edff5e7c996d731d/Refinement/Questions.md) can you ask to help your team?
+* Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Questions.md) can you ask to help your team?
 
-* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastery/blob/6bc6c02c02c8b196e5f84879edff5e7c996d731d/Refinement/Antipatterns.md)
+* Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Antipatterns.md)
 
 
 ## The aim is to have enough to get us started
