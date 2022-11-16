@@ -10,7 +10,7 @@ The Refinement gives the opportunityt to the team to check top items in the back
 
 #### There you have the why, the purpose. Now,
 
-* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Indicators.md) can measure to know where you stand?
+* What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Refinement/Indicators.md) can measure to know where you stand?
 
 * Which powerful [**Questions**](https://github.com/GarciaInes/Scrum-Mastering/blob/363f046502ad8c48c6b06ea274147a934c91b57d/Refinement/Questions.md) can you ask to help your team?
 
