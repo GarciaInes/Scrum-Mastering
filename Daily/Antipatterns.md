@@ -4,6 +4,7 @@ Listing below some anti-patterns often observed in teams
 ### "Doing"
 Activities and a lot of 'ing' repeating day after day
 * Antidote: Craft a clear goal, tweak the narrative so that each daily is in fact a team alignment to fill the gap on current and meeting the goal. (everything else does not matter)
+* Another Antidote is to rephase the narrative like if it was a retrospective: 1) what did we set ourselves to do yesterday? 2) how did that go? 3) how could we try today for it to be better? then pick whats the aim to finish today, anything may slow us down and how to mitigate. 4) with that in mind, are we well in line to achive our goal? if not, what adjustemnts to do on plan/scope today to make it.
 
 ### No Routine
 There isn't a rythm on when what how who
