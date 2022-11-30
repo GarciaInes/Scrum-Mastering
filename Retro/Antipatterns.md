@@ -19,6 +19,8 @@
 * Favour finishing over starting
 * Move to experiements over broad statements
 * Craft time to enable space for actions options generations & selection
+* Start check point on previous action and outcome so far. 
+* Surface when not moving the needle of improvement (after all this is all it matters "are we becoming better at what we do?"
 * Prompt to options diversification, encourage other points of view and reassure healthy challenges as part of the process to get to a better options/views
 * Focus on collectively chose 1-2 actions to start trying out next day (least for maximum return)
 * Make it fun! sprinkle a bit of laughter can help ease and open minds which enables looking at constrains and reocurring issues with new lens
