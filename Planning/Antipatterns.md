@@ -31,6 +31,11 @@ What is the goal of this sprint? and what are the required 'pieces' for it to be
 Else can wait <br/>
 The Product Owner eill be a big help on this.<br/>
 
+##### When assigning tickets is expected<br/>
+Sometimes a team just need to be explicitely given the permission to own their own destiny<br/>
+What is stopping us to pick the next item from the top? (growing opportunity)<br/>
+
+
 ## “We plan, but recognize the limits of planning in a turbulent environment.” - Agile Manifesto
 
 ### WATCH OUT
@@ -40,3 +45,4 @@ The Product Owner eill be a big help on this.<br/>
 * Ends with a confused team (watch non verbal)
 * Team members are holding back from one another
 * Sense of artificial harmony
+* Higher entity assigning tickets
