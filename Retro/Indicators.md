@@ -36,7 +36,7 @@ Here some questions for you to notice and instrospect:
 * instead be curios: ask questions, challenge status quo
 * Is the team aware of their own progress to make their process better?
 
-As a scrum master it's useful to help recap past items with the team. 
+As a scrum master it's useful to help recap past items with the team: 
 * The good, the bad and the ugly.
 * Are we becoming better at what we do?
 * As individuals we often don't realise nor give ourselves credit for what we have achieved.
