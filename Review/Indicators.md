@@ -33,6 +33,7 @@ Here a list of questions for you to notice and instrospect:
 * Is the PO demoing? (ie anyone besides who developed it and tested)
 
 #### Measure
+* Obstacles raised (doesnt have a complete block, include: what slow us down)
 * Voiced leveled up
 * Ability to ask questions
 * Response types: ie resistance, welcomed, open discussion...
