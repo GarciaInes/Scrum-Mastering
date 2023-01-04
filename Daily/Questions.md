@@ -24,5 +24,6 @@ One of the things worth finding out during daily if there "is something slowing 
 * Are problems & impediments surfaced?
 * Do the problems & impediments surfaced get support to be dealt with among team members?
 
+### Needs
 You can also run a self reflection for the team members and ask them to fill out the blanks: 
 In the dailies I need ____________ so I request from the team ____________
