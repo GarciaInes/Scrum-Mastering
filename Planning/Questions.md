@@ -1,4 +1,10 @@
 
+### Seeking clarity
+
+* What is the need here to meet? (moving to goals/aim rather than instructions/features)
+* What is this related to? (draw dependencies/impact)
+* Why this chasllenge matter? (find purpose)
+
 ### What can be committed
 
 * What can we feasibly consume?
