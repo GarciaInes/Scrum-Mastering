@@ -1,3 +1,10 @@
+
+### Shake things up
+If you want to shake things up a bit from routine, which can kill creativity and energy, try to open up the refinement conversation which questions such as:
+* What would you like to do?
+* What are we missing here?
+* If there was no backlog, what should we be doing next?
+
 ### Backlog health
 * Is the backlog visible?
 * Is the backlog ordered in: Importance, Urgency & Return of the effort?
