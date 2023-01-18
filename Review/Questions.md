@@ -41,3 +41,11 @@ Thank for new ideas, it's natural and healthy that those emerge!
 * *Bob*, seems like you are not engaging here. Are you uncomfortable with what we are doing? or is there any other issue you want to help us understand?
 * Is everyone who wants to talk getting airtime?
 * Are there quiet voices to be heard?
+
+### Systems and Impacts
+* When doing our daily job, its easier sprint by sprint? Why/Why not?
+* Do our systems/processes help or hinder us to work towards our vision?
+* Can we resolve this here ourselves? or do we need to involve other teams?
+* Can we resolve this at this level? or is a conflict inherent on the vision/strategy/structure/goals?
+* What are the next steps for taking action on this?
+* What would be an ideal outcome, how would it look like?
