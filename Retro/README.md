@@ -35,5 +35,5 @@ Maybe add this quote from Eleanor Roosevelt “Learn from the mistakes of others
 
 #### RETROS DONT HAVE TO BE BORING! Check out latest invention [**www.birdsnerdsandturds.com**] 
 
-#### Evolve your practice
+#### Evolve your practice:
 You may also want to do a session on mapping Tools, Behaviors etc to Agile Principles to help surface gaps and options to grow, see here a brief [**example**](https://www.linkedin.com/posts/helengarcia-agile_coaching-blogs-agile-activity-7018950835892047872-w4b9?utm_source=share&utm_medium=member_desktop)
