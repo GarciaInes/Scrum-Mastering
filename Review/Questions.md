@@ -36,6 +36,7 @@ Thank for new ideas, it's natural and healthy that those emerge!
 * What do you make out of it?
 * What other angles can you think of?
 * If you had free choice in the matter, what would you do?
+* What your (everyone in the room) inner critic voice would say?
 
 (head on) 
 * *Bob*, seems like you are not engaging here. Are you uncomfortable with what we are doing? or is there any other issue you want to help us understand?
