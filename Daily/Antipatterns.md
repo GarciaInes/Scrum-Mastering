@@ -9,6 +9,7 @@ Activities and a lot of 'ing' repeating day after day
 ### No Routine
 There isn't a rythm on when what how who
 * Antidote: Get that muscle memory going! Same time, same place, for & by the team, max 15 mins alignment.
+* Antidote: Get a dynamic habit, such as every day someone else shares screen, or open up with 'who wants to start' + pass the baton
 
 ### Status Report
 When it misses the point of what a daily is about
