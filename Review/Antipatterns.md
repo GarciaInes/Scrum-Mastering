@@ -30,6 +30,14 @@ Either the lack of attendance start showing, or the energy in the room is fading
 * show your tangible progress as a team and do it so with passion. 
 * Have afine line for dragging discussions diverting the focus of the session, park them and follow up later (the PO is a great champion to do so)
 
+##### Showcase
+When thee review becomes a over polished marketing add instead of a collaborative opportunity to show it as it is, to gather feedback, to enable to make product and process decisions.
+A review should be that a REVIEW. Not just a demo.
+Some antidotes:
+* Prioritize active participation and engagement from all stakeholders
+* Enourage open and honest feedback / discussion 
+* Facilitate collaboration to make the review more impactful
+
 ## “Working software is the primary measure of progress.” - Agile Manifesto
 
 ### WATCH OUT
