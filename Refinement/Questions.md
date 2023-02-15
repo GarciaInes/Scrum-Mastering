@@ -66,3 +66,6 @@ An often flaw on the Refinement is from PO perspective asking closed questions s
 * What are the intended and unintended consequences of this product or service feature?
 * Within these intended and unintended consequences, which are positive?
 * Within these intended and unintended consequences, which are negative?
+
+#### The missing piece of Acceptance Criteria
+Check out this entry to harden and shift left on your stories and refinement. [**Article**](https://www.linkedin.com/pulse/acceptance-criteria-missing-piece-ines-garcia/)
