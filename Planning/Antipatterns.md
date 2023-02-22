@@ -1,37 +1,47 @@
 
-### “What is Sprint Planning”, Scrum,  
+## “What is Sprint Planning”, Scrum,  
 https://www.scrum.org/resources/what-is-sprint-planning
 
-##### When planning sessions become ultra-marathons<br/>
+#### When planning sessions become ultra-marathons<br/>
 Remove the noise, focus on what matters<br/>
 One dimentional organised list work trhough top until *enough* to consume this cycle<br/>
 The team can always pull more in if finished (fully finished = deployable state by a simple button press)<br/>
 Reduce distractions, burden and overload<br/>
 
-##### Too much to cope<br/>
+#### Too much to cope<br/>
 In line with ABOVE<br/>
-The feasibility of the work is forecasted on past performance, upcoming capacity & DoD<br/>
+The feasibility of the work is forecasted on past performance, upcoming capacity & DoD <br/>
 Does the team believes the plan is achievable? (avoid group think)<br/>
+Overcommitting can lead to burnout, missed deadlines, and a lack of trust from stakeholders. <br/>
 
-##### Draining Planning talking about to far off potential future<br/>
+#### Lack of clarity<br/>
+If the team is unclear on what they need to do, this can lead to misunderstandings, miscommunication, and wasted time. 
+Antidote: Work on your refinement. Poorly defined user stories or acceptance criteria hinders along the way.<br/>
+
+#### Draining Planning talking about to far off potential future<br/>
 Instead of old-school upfront detail planning goes to the bin, bye bye!<br/> 
 We can’t predict the future and we know that things are going to change, so there is no point in investing time, effort or intelligence in that. <br/>
 
-##### When we are told what to do: when noone asks questions nor offer comments<br/>
+#### When we are told what to do: when noone asks questions nor offer comments<br/>
 Are we in the same page?<br/>
 Team can refine items during this process, which increases understanding & confidence.<br/>
 
-##### *Del dicho al hecho hay un trecho* > Saying when actual and agreements differs. = lack of cohesion<br/>
+#### *Del dicho al hecho hay un trecho* > Saying when actual and agreements differs. = lack of cohesion<br/>
 Seek input from all team is considered and responded to. <br/>
 Even if we disagree we commit.<br/>
 
-##### When planning is a continum of previous sprint<br/>
+#### Failure to prioritize
+Is not only the danger of eningd up working on low-value tasks or tasks that are not important to stakeholders, but also clear and concise direction goes along way.<br/>
+Seek impact, focus on what matters. <br/>
+Favour finish over starting (Kanban mindset) <br/>
+
+#### When planning is a continum of previous sprint<br/>
 Each item is up for pushing back into backlog, what we are really setting us up to do?<br/>
 What is the goal of this sprint? and what are the required 'pieces' for it to be achieved.<br/>
 Else can wait <br/>
 The Product Owner eill be a big help on this.<br/>
 
-##### When assigning tickets is expected<br/>
+#### When assigning tickets is expected<br/>
 Sometimes a team just need to be explicitely given the permission to own their own destiny<br/>
 What is stopping us to pick the next item from the top? (growing opportunity)<br/>
 
