@@ -20,6 +20,14 @@ Before the retro, block sometime to think about:
 
 Note (rather than a question): There are many unkowns/things are changing fast. This is complex stuff. So we will make mistakes, things will not go as expected, not everything will work.
 
+### Build upon what works
+* What went well during the sprint/iteration, and how can we build on those successes in the future?
+* What skills or strengths did team members bring to the table that helped us succeed, and how can we leverage those skills more effectively in the future?
+* Were there any new practices or approaches that we tried during the sprint/iteration that worked particularly well, and how can we continue to incorporate those practices into our work?
+* Did we have a clear understanding of our goals and priorities? If so, how can we maintain that clarity going forward?
+* Were there any challenges or roadblocks that we overcame particularly well, and how can we apply that problem-solving approach to future challenges?
+* Which specific behaviors or attitudes (that team members exhibited) contributed to this sprint? and how can we encourage more of those behaviors/attitudes going forward?
+
 ### To help bring people in the conversation, try:
 * What is your take?
 * Whats on your mind?
