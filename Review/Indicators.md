@@ -26,6 +26,14 @@ The gap in between calls for valuable interaction in review, do you need help? s
 New ideas will emerge in REVIEW, and thats OK, it's a GOOD THING!
 Capture them, PO to consider and add in backlog > which subsequently needs to be sized, check potential return, check potential interest, validation and feasibility, prioritised and define which bets could be placed.
 
+#### Account for feedback
+A good indicator to keep an eye on during the review meeting include the team's responsiveness to feedback. <br/>
+* One way to measure this is by assessing the team's ability to incorporate feedback into their work. For example, if a stakeholder suggests a change to a feature during the review meeting, the team should be able to quickly assess the feasibility of the change and determine whether it is in line with the project's goals and objectives. If the change is feasible and aligns with the project goals, the team should be able to incorporate it into their work for the next sprint.
+
+* Another way to measure the team's responsiveness to feedback is by evaluating their communication skills. During the review meeting, the team should be able to communicate effectively and clearly with stakeholders, explaining their work and answering any questions that may arise. The team should also be receptive to feedback and be willing to make adjustments to their work based on that feedback.
+
+* In addition, you can assess the team's ability to adapt to changing requirements and priorities. For example, if the team receives feedback that suggests a change in direction or priority, they should be able to adjust their work accordingly and communicate those changes effectively to stakeholders and other team members.
+
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
 * Is the demo of the product increment fully fledged? (i.e not a mock)
