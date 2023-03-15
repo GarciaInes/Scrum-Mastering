@@ -2,14 +2,18 @@
 * Ambiguity
 * Fear of conflict (false sense of harmony)
 * Silent retro
+* Lack of participation from some
 * Avoidance of accountability ie always external issue, where 'power' sits to change things
 * Same old content coming up
 * Inattention to results
+* Over-analyzing: When the team becomes too focused on analyzing data or metrics, rather than discussing the team's overall performance and processes.
 * Absence of trust
 * Planning is based on 'activites' rather than deliverables
 * Estimates being commitments? Which problems does this cause? How can the team change this missconception/perception?
 * Multitasking, even beyond the retro. How does that affect the project? what could be done to reduce the negative impacts?
 * Retro ends without specific tangible actions to try next week
+* Finger pointing (or blaming each other rather than finding solutions to improve the team's processes and outcomes)
+* Groupthink: When team members conform to the opinions of others in the group rather than expressing their own ideas and perspectives.
 
 *“You think that because you understand ‘one’ that you must therefore understand ‘two’ because one and one make two. But you forget that you must also understand ‘and’.” - Sufi teaching story* 
 
@@ -17,6 +21,7 @@
 * Set scene of problem solvers with a common challenge
 * Spend time BREAKING dependencies, rather than managing them
 * Favour finishing over starting
+* Enable voices to be heard: When some team members do not actively participate in the retrospective, which can hinder the team's ability to identify and address problems.
 * Move to experiements over broad statements
 * Craft time to enable space for actions options generations & selection
 * Start check point on previous action and outcome so far. 
