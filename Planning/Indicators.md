@@ -17,7 +17,7 @@ Here a list of questions for you to notice and instrospect:
 * Looking at last 3-4 sprints is the volume of stories feasible? (as SM is good to have that number in mind, to snap the conversation at that point when you reach that)
 * Team meets throughout the day for more detailed discussions & progress when needed
 
-### Patterns
+#### Patterns
 * Consistently achieving/missing sprint goals. Recency plays key role here
 * Never-ending stories? (yes like the film)
 * Account for ontext switch / Start-stop
