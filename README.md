@@ -13,7 +13,7 @@ First of all off, THANK YOU for considering contributing to Scrum-Mastery:
 
 As you have landed here, please make sure you familiarise yourself with:
 - The project licence file (Also accounts for any reference, use, view etc of this open-source project)
-- CONTRIBUTING & CODE_OF_CONDUCT files
+-  [CONTRIBUTING](https://github.com/GarciaInes/Scrum-Mastering/blob/b3686973dcb680c8ce017279a801f5fc8d9edba3/CONTRIBUTING.md) & [CODE_OF_CONDUCT](https://github.com/GarciaInes/Scrum-Mastering/blob/b3686973dcb680c8ce017279a801f5fc8d9edba3/CODE_OF_CONDUCT.md) files
 
 **With the motto to keep things simple, we have a base folder structure by each Scrum ceremony in each a file containing:**
 - **Antipatters** : Things to watch out for that may spoil the broth for your team
