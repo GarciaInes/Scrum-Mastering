@@ -3,8 +3,10 @@ And you are definetely not to 'run' the meeting specially it's contents.
 
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
+* Completion Rate (items ready to go !! think of just-in-time)
 * cover only top items? (ie avoid waste trying to predict the future)
 * PO is clear and concise
+* Backlog Item Quality (in line with below also)
 * PO focus on impact/value (rather than 'move buttom 3 mm to the right)
 * Does the team ask questions to clarify?
 * Are team members surface when is not clear the progress/feasibility of goals?
