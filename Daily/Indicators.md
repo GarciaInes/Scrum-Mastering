@@ -7,6 +7,7 @@ Here a list of questions for you to notice and instrospect:
 * punctual?
 * same time same place
 * constant rhythm?
+* semantics "ing': working, progressing, doing...
 * Concise updates on what was Achieved last 24h & plan to Finish next 24h?
 * Gives clarity & progress as a whole towards the common goal
 * Are problems & impediments being surfaced?
