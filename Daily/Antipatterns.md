@@ -61,7 +61,7 @@ Talking about non 'goal' related stuff
 
 ### Micromanagement
 Obsessing with tasks or the development process, which in turn kills autonomy and creativity, leading to lower quality work. It shows a lack of trust and freedom.
-* Antidotes: 
+* Antidotes: </br>
 . Set common boundaries: so that there is a shared understanding of acceptable behaviour within and to the team. </br>
 . Prioritise: Favour finishing things over starting! Poke with probing questions here. Delegate (or tap into for help) to avoid attempted external distractions (yes that includes who shouts louder demanding). </br>
 . Respect: Demonstrating through and by perspectives and opinions can help build trust. Listen actively, consider their ideas, and show appreciation for their contributions. Remind others of positive intent. </br>
