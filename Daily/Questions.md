@@ -2,8 +2,11 @@
 
 * Do we have what we need to get us started
 * What shall we focus on today to achieve the sprint goal
+* Who would like to champion what?
+* How can we pair on delivery? or even approach with the '3 amigos'?
 * What may slow us down on achiving the sprint goal?
 * How close are we to hitting our sprint goal? 
+* Which options do we have to tackle this (1 piece of work and or goal)?
 * What’s your comfort level?
 * Do I have clarity on our weekly common goal?
 * Does the whole team fully engages and chips in to help others?
@@ -16,6 +19,7 @@
 * Who knows about XYZ to support *bob*?
 * Let me pause there, here is the challenge: update on content of your achievements and plans towards the goal in 2 sentences?
 * Scope & bureaucracy creep are snapped nice & early
+* What is one thing that would allow us to have more creative headspace and reduce noise this week?
 
 ### Slowing down
 One of the things worth finding out during daily if there "is something slowing us down", beyond any blocker it can simply be a team member needs some guidance either technically or from business logic/knowledge side of things.
