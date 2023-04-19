@@ -31,6 +31,15 @@ Is the amount of time an unfinished task has (usually measured in days), it help
 * Try to find those issues that are taking longer or close to than your average Cycle Time
 * You can create your own charts with the differente states in your workflow in your x axis and the # of days in the y axis
 
+#### Spotting Micromanagement
+* Hierarchy assigns work (Lack of autonomy to make decisions and take ownership of work)
+* Excessive oversight (When monitoring removes focus, energy & headspace)
+* Resistance to change (If you don't evolve you go backwards)
+* Focus on pressure rather than return
+* Decreased energy (can be consumed by micromanagement)
+* Not end to end usable deployed features (ie business logic only, no DB no UI)
+* Low quality (from rushing to complete work and long hours)
+</br>
 
 At the end of the day, daily is there as a touch point for aligment and for the team to adjust their plan for the next 24h so that the Sprint Goal can in fact be achieved. Keeping time and quality fixed, whilst adjusting how to make it happen as a collective.
 * Is this happening?
