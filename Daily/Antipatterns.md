@@ -59,3 +59,13 @@ do we actually listen to each other?
 Talking about non 'goal' related stuff
 * Antidote: refocus, tweak the semantics to cover towards the goal. and kind reminders of not about the goal it doesnt exist?
 
+### Micromanagement
+Obsessing with tasks or the development process, which in turn kills autonomy and creativity, leading to lower quality work. It shows a lack of trust and freedom.
+* Antidotes: 
+. Set common boundaries: so that there is a shared understanding of acceptable behaviour within and to the team.
+. Prioritise: Favour finishing things over starting! Poke with probing questions here. Delegate (or tap into for help) to avoid attempted external distractions (yes that includes who shouts louder demanding).
+. Respect: Demonstrating through and by perspectives and opinions can help build trust. Listen actively, consider their ideas, and show appreciation for their contributions. Remind others of positive intent.
+. Be flexible: The only constant is change, expect the unexpected. and tap into the team as a collective to make informed decisions, even deferring to next cycle.
+. Collaborate: the whole is greater than the sum of its parts. #StrongerTogether
+. Measure! Log micromanagement indicators and aggregate so that it can be an information radiator to address unhelpful behaviours.
+
