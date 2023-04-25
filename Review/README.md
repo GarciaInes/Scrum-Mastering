@@ -25,6 +25,8 @@ Gather feedback
 Decide next steps (including if to release)
 Review also gives a great oportunity to surface facts and measures that slows the team down
 
+## Review is Collaboration
+
 “In a growth mindset, challenges are exciting rather than threatening. 
 So rather than thinking, oh, I’m going to reveal my weaknesses, 
 you say, wow, here’s a chance to grow.”
