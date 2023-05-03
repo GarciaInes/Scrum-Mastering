@@ -40,3 +40,4 @@ As a scrum master it's useful to help recap past items with the team:
 * The good, the bad and the ugly.
 * Are we becoming better at what we do?
 * As individuals we often don't realise nor give ourselves credit for what we have achieved.
+* This touch point avoids issues raised not being improved on and or lost in the oblivium 
