@@ -8,7 +8,10 @@ Here a list of questions for you to notice and instrospect:
 * Do some voices over rule others? how? why?
 * Are problems & impediments being surfaced?
 * Is there a clear crafted goal? Focus on Value to aim, not on volume of activities.
+* Do we align discussions and decisions with the overall goal / objectives? 
 * Gives clarity & progress as a whole towards the common goal
+* How do we approach conflicts or disagreements? is it in a constructive manner? seeking resolutions that benefit the team and the project?
+* Are members engaged? participative and attentive throughout the session?
 
 #### Measure
 * Are team members surface when is not clear the progress/feasibility of that common goal?
