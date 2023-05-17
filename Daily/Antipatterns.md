@@ -57,7 +57,10 @@ do we actually listen to each other?
 
 ### Diversion
 Talking about non 'goal' related stuff
-* Antidote: refocus, tweak the semantics to cover towards the goal. and kind reminders of not about the goal it doesnt exist?
+* Antidotes:  </br>
+. refocus 
+. tweak the semantics to cover towards the goal. 
+. kind reminders of: if its not about the goal it doesnt exist?
 
 ### Micromanagement
 Obsessing with tasks or the development process, which in turn kills autonomy and creativity, leading to lower quality work. It shows a lack of trust and freedom.
