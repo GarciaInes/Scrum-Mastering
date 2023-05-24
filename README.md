@@ -6,7 +6,8 @@ First of all off, THANK YOU for considering contributing to Scrum-Mastery:
 
 - It’s people like you that make it such a great tool.
 - Your contributions help make an Agile journey with Scrum better for everyone, developers and non-developers alike.
-- Also is a great way to grow your skills and help others. Whatever your skill level, working on open-source is a great way to learn new things.
+- Also is a great way to grow your skills and help others. 
+- Whatever your skill level, working on open-source is a great way to learn new things.
 - Let's build upon each others ideas as we enable and encourage our teams to do.
 - Make a suggestion, fix a bug, improve documentation, or contribute code to a project. Even asking questions helps.
 - It's alive! a regenerative collaboration to our work, to "leave the place better than how we found it"
