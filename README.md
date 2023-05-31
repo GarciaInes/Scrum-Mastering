@@ -47,6 +47,7 @@ Text and markdown files are perfect formats, see here [how to add formating](htt
 
 With the recent release on Github web, once you have you own branch you can just type . (yes a full stop) and will open up this repository on web version that you can work from if you prefer, something like this: 
 </br>
+
 ![Sample](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Sample%20Github%20Web.png)
 
 You can also ping me here or at https://twitter.com/inescapinezka for support if need be!
