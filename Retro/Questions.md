@@ -61,6 +61,7 @@ Note (rather than a question): There are many unkowns/things are changing fast. 
 * What would a simpler way look like?
 * Can you tell me more about that?
 * What would an experiment look like?
+* What sort of behaviours or attitudes will make it easier to do this?
 * When you say ______, what do you mean?
 * What’s already working that you can build on?
 
@@ -69,6 +70,7 @@ Reality check when coming up with tangible actions:
 * Desirable: Do they want this? (us and or other dependent parties)
 * Feasible: Can we do this? (time, energy, headspace, accesses and tools ...)
 * Viable: Should we do this?
+* Which values do we need to bring to like in the way we do things?
 
 ### Forward facing
 * What would you prefer happen next time
@@ -77,6 +79,7 @@ Reality check when coming up with tangible actions:
 * How would you solve this problem next time
 * What would you like to see different about this situation
 * If this situation happens again, how should we react to it?
+* What will we do if one or more comes across as going disjoined?
 * What are our options?
 * What possible futures exist here?
 * What would be one more way to solve it?
@@ -87,6 +90,7 @@ Reality check when coming up with tangible actions:
 * There are many unknowns/things changing fast/this is complex stuff. so we all make mistakes.
 * What are the assumptions that we are making?
 * What else could this be/could we investigate/have left out?
+* How do we want to behave/choose/decide/act when things get difficult?
 * What may be in our way?
 * Ok, thats one side, let's hear some dissent. who's got something to add? lets have some give-take.
 * Bob, what are you hearing that resonates?/concerns? (bring people into the conversation)
@@ -94,6 +98,7 @@ Reality check when coming up with tangible actions:
 * What were friction points?
 * Are there systems we should retool?
 * I really appreciate your bringing this to the table, I'm sure it wasn't easy.
+* How  will we successfully challenge each other without damaging our relationships?
 
 
 Decide what to do: ie out of the insights everyone shared, what are highlights/tangible actions each is going to do after leaving the session. The value is not just in being present and participate but in the actions the conversation has prompted.
