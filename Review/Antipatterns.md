@@ -4,6 +4,9 @@ https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo
 
 Things to watch out for
 
+##### No customer!
+Time and time again we find that reviews are team only or internal, where is the reducing feedback loop time and increase customer involvement?
+
 ##### Scope Creep
 The review helps as much of what we do is 'create' from ideas/concepts to something that can be seen/is interactive. <br/>
 So showing the product is superpowerful, and that naturally will prompt to new ideas/enhancements to emerge. Careful with scope creep when may just need to be added in the backlog for PO to order.
