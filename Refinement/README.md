@@ -1,4 +1,8 @@
 In the Scrum framework the **Refinenment** is one of the check points added the latests as an often practice that happens couple days before the start of a new cycle/sprint. 
+There are multiple reasons why is only a couple of days prior new sprint starting. 
+* Reduce context switch and attention diversion from the team.
+* Reduce deviation from a far future. The closest to the current state, the easiest to assess.
+* Time restriction acts to shorten turnaround decisions and aim for clarity.
 
 SEMANTICS: There is a reason to use the word **Refinement** instead of 'grooming' as in certain cultures comes with quite negative connotations, the words that we use are important so that we don't just throw people off but we enhance what and why we are doing.
 
