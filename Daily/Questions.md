@@ -3,16 +3,19 @@
 * Do we have what we need to get us started
 * What shall we focus on today to achieve the sprint goal
 * Who would like to champion what?
-* How can we pair on delivery? or even approach with the '3 amigos'?
 * What may slow us down on achiving the sprint goal?
 * How close are we to hitting our sprint goal? 
 * Which options do we have to tackle this (1 piece of work and or goal)?
 * What’s your comfort level?
 * Do I have clarity on our weekly common goal?
-* Does the whole team fully engages and chips in to help others?
 * I'm clear on what my team had achieved since last huddle and the plan to finish that day
 * Is achieving the goal feasible? what may hinger us along the way?
 
+### Interactions over processes and tools
+* How can we pair on delivery? or even approach with the '3 amigos'?
+* Does the whole team fully engages and chips in to help others?
+* Are we swarming to value FINISHING over STARTING?
+* How can we collaborate and support each other to achieve the goal?
 
 ### Diversion
 * What we need to discuss after the daily?
