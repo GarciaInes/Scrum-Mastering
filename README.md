@@ -50,4 +50,4 @@ With the recent release on Github web, once you have you own branch you can just
 
 ![Sample](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Sample%20Github%20Web.png)
 
-You can also ping me here or at https://twitter.com/inescapinezka for support if need be!
+You can also ping me here or at https://twitter.com/inescapinezka OR https://www.linkedin.com/in/inesgarciaagile/ for support if need be!
