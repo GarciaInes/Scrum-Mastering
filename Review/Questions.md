@@ -20,7 +20,8 @@ Thank for new ideas, it's natural and healthy that those emerge!
 * Whats the purpose of it?
 * What could help you with this?
 * What do we need to solve this?
-* What standing on our way?
+* What is standing on our way?
+* What is slowing us down? How can we alleviate it? (hoping for the best won't do it!)
 
 ### Generating options 
 * What could be on more option?
