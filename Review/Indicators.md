@@ -37,6 +37,7 @@ A good indicator to keep an eye on during the review meeting include the team's 
 Here a list of questions for you to notice and instrospect:
 #### Basics to observe
 * Is the demo of the product increment fully fledged? (i.e not a mock)
+* (in line with above) Not end to end usable deployed features (ie business logic only, no DB no UI)
 * Does the session deviate away from product increment review?
 * Is the PO demoing? (ie anyone besides who developed it and tested)
 
