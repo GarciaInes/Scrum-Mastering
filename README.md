@@ -17,7 +17,7 @@ As you have landed here, please make sure you familiarise yourself with:
 -  [CONTRIBUTING](https://github.com/GarciaInes/Scrum-Mastering/blob/b3686973dcb680c8ce017279a801f5fc8d9edba3/CONTRIBUTING.md) & [CODE_OF_CONDUCT](https://github.com/GarciaInes/Scrum-Mastering/blob/b3686973dcb680c8ce017279a801f5fc8d9edba3/CODE_OF_CONDUCT.md) files
 
 **With the motto to keep things simple, we have a base folder structure by each Scrum ceremony in each file containing:**
-- **Antipatters** : Things to watch out for that may spoil the broth for your team
+- **Antipatters** : Things to watch out for that may spoil the broth for your team, do add antidotes too!
 - **Questions** : Powerful yet simple to help reflection, act as an ignator, open possibilities, etc ultimately to serve the team. Good to have in your backpocket.
 - **Indicators** : How do we measure what works? Keeping Systems Thinking at hand so that single metrics don't damage the goodness of the whole. Think of them as leading indicators of a healthy team/product/organisation
 
