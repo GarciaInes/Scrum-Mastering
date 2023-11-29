@@ -1,5 +1,5 @@
 
-Listing below some anti-patterns often observed in teams
+Listing below some anti-patterns often observed in teams, feel free to chip in and add to this repo!
 
 ### "Doing"
 Activities and a lot of 'ing' repeating day after day
