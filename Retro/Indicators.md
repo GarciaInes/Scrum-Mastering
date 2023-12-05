@@ -6,6 +6,7 @@ There is the tendency that overtime teams with lack of guidance will land on dul
 
 Here some questions for you to notice and instrospect:
 
+
 #### Basics to observe
 * Are the commited changes / agreed experiments being implemented?
 * Are the raised issues being acted upon by the team members?
@@ -14,6 +15,7 @@ Here some questions for you to notice and instrospect:
 * Are same items reapearing?
 * Are things "let go" whilst the issues are still present?
 * Do they discuss how they work together? with the intention to make it better?
+* Does everyone have the opportunity to contribute? air space / all voices to be heard?
 
 #### Measure
 * Is the team getting better?
@@ -22,6 +24,7 @@ Here some questions for you to notice and instrospect:
 * Is the energy better?
 * Are we more predictable? i.e. we learnt how much we can consume over time?
 * Are we controlling risk?
+* What is our time to recover from outrages? any deployment that goes wrong?
 * Have we improved our security?
 * Have we improved safety to deliver more often?
 * Have we improved safety to try things out?
@@ -30,6 +33,7 @@ Here some questions for you to notice and instrospect:
 #### Team self-awareness
 * Is co-creation observed?
 * Are all voices being heard?
+* Any particularly "mic-hoarder"?
 * Is there time to innovate?
 * Is there eagerness to try new things?
 * Do team members fight the urge to react? 
