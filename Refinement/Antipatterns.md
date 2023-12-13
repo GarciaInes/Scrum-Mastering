@@ -19,6 +19,7 @@ Avoid jumping into solutionsing, pointers are useful, yet dont deviate
 ### Monologs
 Does everyone have a similar air time? Do people contribute to the items discussed?
 * Antidote: its ok to pause, and gear back to the upcoming common goal, and the pieces that supports it.
+* Also rotate, perhaps each team member covers one item, that gives everyone a voice and makes it more involved by default
 
 ### Cluelessness
 Lack of synch within the team, no clear idea
