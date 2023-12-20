@@ -1,8 +1,8 @@
 # Scrum-Mastering
 
-1st Nov 2023: we got a Github badge for repo with many stars! THANK YOU.
+1st Nov 2023: we got a Github badge for repo with many stars! THANK YOU. </br>
 Celebrate and share the collective knowledge with others, it's FREE!
-//
+//<r>
 First of all, THANK YOU for considering contributing to Scrum-Mastery:
 
 ## THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
