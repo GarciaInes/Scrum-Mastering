@@ -5,7 +5,11 @@ https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo
 Things to watch out for
 
 ##### No customer!
-Time and time again we find that reviews are team only or internal, where is the reducing feedback loop time and increase customer involvement?
+Time and time again we find that reviews are team only or internal, 
+if  that is the case do ask, what is the closest proxy customer?
+how can we increase actual customer involvement?
+No having actual customers in the review is the reducing feedback loop increase cycle time.
+Careful with this one!
 
 ##### Scope Creep
 The review helps as much of what we do is 'create' from ideas/concepts to something that can be seen/is interactive. <br/>
