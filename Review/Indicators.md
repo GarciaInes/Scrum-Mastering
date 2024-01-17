@@ -34,7 +34,7 @@ A good indicator to keep an eye on during the review meeting include the team's 
 
 * In addition, you can assess the team's ability to adapt to changing requirements and priorities. For example, if the team receives feedback that suggests a change in direction or priority, they should be able to adjust their work accordingly and communicate those changes effectively to stakeholders and other team members.
 
-Here a list of questions for you to notice and instrospect:
+Here a list of questions for you to notice and introspect:
 #### Basics to observe
 * Is the demo of the product increment fully fledged? (i.e not a mock)
 * (in line with above) Not end to end usable deployed features (ie business logic only, no DB no UI)
