@@ -8,16 +8,16 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is. Current logic and expected including reasoning.
+A clear and concise description of what the bug is. Current logic and expected, including the reasoning.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Expected behaviour**
 A clear and concise description of what you expected to happen and why.
 
 **Screenshots**
