@@ -2,7 +2,7 @@
 
 <br>
 1st Nov 2023: we got a Github badge for repo with many stars! THANK YOU. </br>
-Celebrate and share the collective knowledge with others, it's FREE! </br>
+Celebrate and share the collective knowledge with others, it's FREE!!! </br>
 <br>
 <br>First of all, THANK YOU for considering contributing to Scrum-Mastery:
 
