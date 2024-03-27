@@ -2,7 +2,7 @@
 
 Encourage the behaviour you want to see in the world 
 
-It's2s not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help our community grow.
+It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help our community grow in a way that is healthy and encouraging.
 
 Check out the Contributor Covenant for guidelines https://www.contributor-covenant.org/
 Which is also maintained as an Open-SourceProject
