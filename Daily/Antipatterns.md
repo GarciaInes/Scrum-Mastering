@@ -76,3 +76,12 @@ Obsessing with tasks or the development process, which in turn kills autonomy an
 . Collaborate: the whole is greater than the sum of its parts. #StrongerTogether </br>
 . Measure! Log micromanagement indicators and aggregate so that it can be an information radiator to address unhelpful behaviours. </br>
 
+### Stalled Process
+The aim is continuous improvement, not just of the product but how we do things. If we are not becoming better at what we do, we ain't Agile.
+Nipping this out not only helps teams stay on track and maintain their focus throughout the sprint but also enable a healthier environment and achievement towards product & team vision.</br>
+* Antidotes: </br>
+. Retrospectives. This is why they exist! You may need some polishing up to enable these to be effective! </br>
+. Simplify decision-making processes. Often, much of the energy gets drained with this or with how it is perceived. </br>
+. Limits: Work in Progress (WIP) limits to restrict the number of tasks or user stories that team members can work on simultaneously. </br>
+
+
