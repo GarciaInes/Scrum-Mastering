@@ -4,9 +4,9 @@ In the Scrum framework the **Planning** is one of the events that kicksoff each 
 
 [*Scrum Guide Planning ref*] (https://www.scrumguides.org/scrum-guide.html#sprint-planning)
 
-A Sprint Planning initiates the Sprint by laying out the work to be performed for the that cycle.
-The PO ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. 
-Covering: 1) Why is this Sprint valuable? & 2) What can be Done this Sprint?
+A Sprint Planning initiates the Sprint by laying out the work to be performed for/during that cycle.
+The Produuct Owner (PO) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. 
+Covering: 1) Why is this Sprint valuable? & 2) What can be Done in this Sprint?
 
 #### There you have the why, the purpose. Now,
 
@@ -19,7 +19,7 @@ Covering: 1) Why is this Sprint valuable? & 2) What can be Done this Sprint?
 
 ## "In preparing for battle I have always found that plans are useless, but planning is indispensable." - Dwight D. Eisenhower
 
-In planning keep this in mind even read up to the team to set the tone: 
+In planning, keep this in mind; even read up to the team to set the tone: 
 Any great team want to have predictability of cadence and come together with every short cycle to craft their plan of attack.
 Things will evolve and change, laying out the work and define out goal and what we commit to achieve as a team is key.
 
