@@ -14,6 +14,7 @@
 * Retro ends without specific tangible actions to try next week
 * Finger pointing (or blaming each other rather than finding solutions to improve the team's processes and outcomes)
 * Groupthink: When team members conform to the opinions of others in the group rather than expressing their own ideas and perspectives.
+* Less often: When there is less and less of retros (or request by the team) unless we becoming better at what we do (delivery, predictability, control risk, no stress, good scalable architecture etc) there is need for more and more retro!
 
 *“You think that because you understand ‘one’ that you must therefore understand ‘two’ because one and one make two. But you forget that you must also understand ‘and’.” - Sufi teaching story* 
 
