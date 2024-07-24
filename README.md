@@ -40,7 +40,7 @@ You may be new to GitHub, is a simple way to collaborate on content across multi
 **Check out this quick tutorial to get you up and running with your first open-source contribution in less than 5 minutes: https://www.youtube.com/embed/dSl_qnWO104**
 1. Create a GitHub user if you do not have one
 2. Fork the repository (select the account you want to fork it to) - you will have a copy under you now
-3. Clone/Download files so that you can work/edit the files on your machine OR change files directly if you are not familiar with CLI and/or code editor.
+3. Clone/Download files so that you can work/edit the files on your machine OR change files directly if you are not familiar with CLI and/or code editor
 4. Once you are ready > commit changes (use comments to briefly describe which changes for maintainer) & Push changes
 5. Create a Pull Request from Master (original repo) and compare the changes
 6. The project maintainer will review changes and communicate for the best contribution it can be!
