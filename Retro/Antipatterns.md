@@ -15,6 +15,7 @@
 * Finger pointing (or blaming each other rather than finding solutions to improve the team's processes and outcomes)
 * Groupthink: When team members conform to the opinions of others in the group rather than expressing their own ideas and perspectives.
 * Less often: When there is less and less of retros (or request by the team) unless we becoming better at what we do (delivery, predictability, control risk, no stress, good scalable architecture etc) there is need for more and more retro!
+* To theme or not to? Themed retros. I made [**this video**]([https://github.com/GarciaInes/Scrum-Mastering/blob/main/Retro/Indicators.md](https://www.youtube.com/watch?v=BDL7vRWLaV4)) Tired of same old? want focus? set the scene? Conflicted by barbie retrospective, the gremblins retro, the goonies retrospective? YOU ARE NOT ALONE. In this video we look at what are ACTUALLY themed retros + specific examples with PURPOSE  AND detailed recent session
 
 *“You think that because you understand ‘one’ that you must therefore understand ‘two’ because one and one make two. But you forget that you must also understand ‘and’.” - Sufi teaching story* 
 
