@@ -1,4 +1,4 @@
-In the Scrum framework the **Daily** is one of the events keeps all eyes on the goal of your cycle/sprint. You do this evry day during an iteration, let’s say for a weekly one Tuesdays, Wednesdays, Thursdays & Fridays (excluding Monday if its when you have done planning). 
+In the Scrum framework the **Daily** (aka Daily Scrum) is one of the events keeps all eyes on the goal of your cycle/sprint. You do this evry day during an iteration, let’s say for a weekly one Tuesdays, Wednesdays, Thursdays & Fridays (excluding Monday if its when you have done planning). 
 
 [*Scrum Guide Daily ref*] (https://scrumguides.org/scrum-guide.html#daily-scrum)
 
