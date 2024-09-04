@@ -12,6 +12,7 @@ SEMANTICS: There is a reason to use the word **Refinement** instead of 'grooming
 [*Scrum Guide Refinement mention under Product Backlog ref*] (https://scrumguides.org/scrum-guide.html#product-backlog)
 
 The Refinement gives the opportunityt to the team to check top items in the backlog and bounce thoughs and questions that may need to be brushed off before the new cycle. Also where you can break down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. 
+As an advice ff any followups ensure by the end of the session relevant PBIs have a clear person assigned, agreed duedate etc
 
 #### There you have the why, the purpose. Now,
 
