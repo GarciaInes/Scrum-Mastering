@@ -4,7 +4,9 @@ In the Scrum framework the **Review** is one of the events that ends each of you
 
 [*Scrum Guide Review ref*] (https://scrumguides.org/scrum-guide.html#sprint-review)
 
-The Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed, as naturally new ideas will emerge
+The Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed, as naturally new ideas will emerge.
+
+How the team presents the work matters, do it in demo mode rather than just verbal or slides. Actual functioning value delivered. It really helps digesting it and therefore support what the Review is about!
 
 #### There you have the why, the purpose. Now,
 
