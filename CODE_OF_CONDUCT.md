@@ -1,6 +1,6 @@
 
 
-Encourage the behaviour you want to see in the world 
+Encourage the behaviour/actions (and thinking!) you want to see in the world 
 
 It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help our community grow in a way that is healthy and encouraging.
 
