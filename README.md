@@ -8,6 +8,8 @@ Celebrate and share the collective knowledge with others, it's FREE!!! </br>
 
 ## THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
+<br>We want to go far, therefore let's go together.
+
 - It’s people like you that make it such a great tool.
 - Your contributions help make an Agile journey with Scrum better for everyone, developers and non-developers alike.
 - Also is a great way to grow your skills and help others. 
