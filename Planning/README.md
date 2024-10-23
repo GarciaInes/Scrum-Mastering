@@ -6,7 +6,7 @@ In the Scrum framework the **Planning** is one of the events that kicksoff each 
 
 A Sprint Planning initiates the Sprint by laying out the work to be performed for/during that cycle.
 The Produuct Owner (PO) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. 
-Covering: 1) Why is this Sprint valuable? & 2) What can be Done in this Sprint?
+Covering: </br>1) Why is this Sprint valuable? </br>& </br>2) What can be Done in this Sprint?
 
 #### There you have the why, the purpose. Now,
 
