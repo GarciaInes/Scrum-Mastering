@@ -18,6 +18,7 @@ Overcommitting can lead to burnout, missed deadlines, and a lack of trust from s
 #### Lack of clarity<br/>
 If the team is unclear on what they need to do, this can lead to misunderstandings, miscommunication, and wasted time. 
 Antidote: Work on your refinement. Poorly defined user stories or acceptance criteria hinders along the way.<br/>
+Antidote: Try practices like 'the 3 amigos' 2 short touch points to align and surface considerations.<br/>
 
 #### Draining Planning talking about to far off potential future<br/>
 Instead of old-school upfront detail planning goes to the bin, bye bye!<br/> 
