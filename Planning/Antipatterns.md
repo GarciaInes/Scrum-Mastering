@@ -16,7 +16,7 @@ Does the team believes the plan is achievable? (avoid group think)<br/>
 Overcommitting can lead to burnout, missed deadlines, and a lack of trust from stakeholders. <br/>
 
 #### Lack of clarity<br/>
-If the team is unclear on what they need to do, this can lead to misunderstandings, miscommunication, and wasted time. 
+If the team is unclear on what they need to do, this can lead to misunderstandings, miscommunication, and wasted time. <br/>
 Antidote: Work on your refinement. Poorly defined user stories or acceptance criteria hinders along the way.<br/>
 Antidote: Try practices like 'the 3 amigos' 2 short touch points to align and surface considerations.<br/>
 
