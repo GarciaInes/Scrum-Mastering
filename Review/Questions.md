@@ -46,6 +46,7 @@ Thank for new ideas, it's natural and healthy that those emerge!
 
 ### Systems and Impacts
 * When doing our daily job, its easier sprint by sprint? Why/Why not?
+* In terms of increment feedback how does that impact scalability and maintenance?
 * Do our systems/processes help or hinder us to work towards our vision?
 * Can we resolve this here ourselves? or do we need to involve other teams?
 * Can we resolve this at this level? or is a conflict inherent on the vision/strategy/structure/goals?
