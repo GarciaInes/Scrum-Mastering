@@ -4,7 +4,7 @@ As a Scrum Master, you do much more than JUST facilitate the meeting, you are an
 Here is a list of questions for you to notice and introspect:
 #### Basics to observe
 * within 15 mins?
-* punctual?
+* punctual? members joining on time and wrapping on time?
 * same time same place
 * constant rhythm?
 * semantics "ing': working, progressing, doing...
