@@ -12,8 +12,9 @@
 * Is achieving the goal feasible? what may hinger us along the way?
 
 ### Interactions over processes and tools
-* How can we pair on delivery? or even approach with the '3 amigos'?
-* Does the whole team fully engages and chips in to help others?
+* How can we pair on delivery?
+* How can we shift left quality? or even approach with the '3 amigos'?
+* Does the whole team fully engages and chip in to help others?
 * Are we swarming to value FINISHING over STARTING?
 * How can we collaborate and support each other to achieve the goal?
 
