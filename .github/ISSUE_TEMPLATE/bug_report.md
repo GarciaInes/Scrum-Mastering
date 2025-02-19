@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is. Current logic and expected, including the reasoning.
+A clear and concise description of what the bug is. 
+Current logic and expected, including the reasoning.
 
 **To Reproduce**
 Steps to reproduce the behaviour:
