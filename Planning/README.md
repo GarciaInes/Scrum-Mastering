@@ -4,6 +4,8 @@ In the Scrum framework the **Planning** is one of the events that kicksoff each 
 
 [*Scrum Guide Planning ref*] (https://www.scrumguides.org/scrum-guide.html#sprint-planning)
 
+#### One useful thing to review at start of Planning is the Definition of Done, that encompasses all work items (user stories or not). Having clarity on the extend we commit things to be 'done' will enrich the conversation about to start in Planning.
+
 A Sprint Planning initiates the Sprint by laying out the work to be performed for/during that cycle.
 The Produuct Owner (PO) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. 
 Covering: </br>1) Why is this Sprint valuable? </br>& </br>2) What can be Done in this Sprint?
@@ -30,4 +32,4 @@ Finish is not.
 Only finished things bring value.
 Having many in progress things do not" - Ines Garcia
 
-#### One useful thing to review at start of Planning is the Definition of Done, that encompasses all work items (user stories or not). Having clarity on the extend we commit things to be 'done' will enrich the conversation about to start in Planning.
+
