@@ -16,7 +16,8 @@
 
 #### Part of Planning is estimating, beware ideal time and elapsed time are different things. 
 * Use relative estimation (not absolute) then compare to others, is this bigger or smaller? fetch input from all not just louder voices
-* What is our capacity? 
+* What is our capacity? days / people off / other comitments
+* Whats feasible given our workload discussed so far?
 * What is our focus work / uninterrupted?
 * How many hours of elapsed time do we have a day?
 * What may help to improve it?
