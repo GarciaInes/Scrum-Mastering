@@ -4,7 +4,9 @@ If you want to shake things up a bit from routine, which can kill creativity and
 * What would you like to do?
 * What are we missing here?
 * If there was no backlog, what should we be doing next?
-* Which elephant in the room, we have not yet tackled?
+* Which elephant in the room, we have not yet addressed?
+* Which legacy mess, we have not yet tackled?
+* Which architectural concern, we have not yet looked into?
 
 ### Backlog health
 * Is the backlog visible?
