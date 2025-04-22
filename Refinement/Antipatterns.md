@@ -1,7 +1,7 @@
 
 Listing below some anti-patterns often observed in teams on the Refinement activity
 ### No Routine
-There isn't a rythm on when what how who
+There isn't a rythm on when what how who. Which can also be seen as the PO is unavailable or "we are too busy, lets cancel and look in planning' etc etc
 * Antidote: Get that muscle memory going! Same time, same place, for & by the team, so that they are ready for alignment.
 
 ### Fuzzy Future
