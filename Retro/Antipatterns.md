@@ -1,10 +1,10 @@
 
-* Ambiguity
+* Ambiguity - not clearly stating the facts
 * Fear of conflict (false sense of harmony)
-* Silent retro
-* Lack of participation from some
-* Avoidance of accountability ie always external issue, where 'power' sits to change things
-* Same old content coming up
+* Silent retro - and what is not said
+* Lack of participation from some - not all voices being heard
+* Avoidance of accountability ie always external issue, where 'power' sits to change things - us vs them
+* Same old content coming up - constrains not addressed/progressed
 * Inattention to results
 * Over-analyzing: When the team becomes too focused on analyzing data or metrics, rather than discussing the team's overall performance and processes.
 * Absence of trust
