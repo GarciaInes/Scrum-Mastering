@@ -3,6 +3,7 @@
 * Fear of conflict (false sense of harmony)
 * Silent retro - and what is not said
 * Lack of participation from some - not all voices being heard
+* Canceling - "we dont have time"
 * Avoidance of accountability ie always external issue, where 'power' sits to change things - us vs them
 * Same old content coming up - constrains not addressed/progressed
 * Inattention to results
