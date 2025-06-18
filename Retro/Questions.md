@@ -1,5 +1,7 @@
 
-Questions in retrospective can make a big difference. What you want is to guide the discussion to a place the team haven't been before so that they can access new information. Where you add 'color' but not substance, meaning avoid infusing your opinion, thought process and solution ideas to them.
+Questions in retrospective can make a big difference. 
+What you want is to guide the discussion to a place the team haven't been before so that they can access new information. Questions can be very helpful mechanism for this.
+As a scrum master, retrospectives is where you add 'color' but not substance--meaning avoid infusing your opinion, leaving thought process and solution ideas to them.
 
 Before the retro, block sometime to think about: 
 * What would the team be talking about?
