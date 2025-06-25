@@ -8,6 +8,8 @@ The Review is to inspect the outcome of the Sprint and determine future adaptati
 
 How the team presents the work matters, do it in demo mode rather than just verbal or slides. Actual functioning value delivered. It really helps digesting it and therefore support what the Review is about!
 
+You are looking at 'the What' is being delivered, whislt an opportunity to raise what helped and what didn't having kep stakeholders present.
+
 #### There you have the why, the purpose. Now,
 
 * What [**Indicators**](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Review/Indicators.md) can measure to know where you stand?
