@@ -6,8 +6,8 @@ Things to watch out for
 
 ##### No customer!
 Time and time again we find that reviews are team only or internal (like development department, not end user nor keystakeholders, ect), 
-if  that is the case do ask, what is the closest proxy customer?
-how can we increase actual customer involvement?
+IF  that is the case do ask, what is the closest proxy customer?
+also ask: How can we increase actual customer involvement?
 No having actual customers in the review is the reducing feedback loop increase cycle time.
 Careful with this one!
 
