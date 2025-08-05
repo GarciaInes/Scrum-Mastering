@@ -3,7 +3,7 @@
 The following is a set of guidelines for contributing to Scrum-Mastery and its repository, which are hosted in the Scrum-Mastery on GitHub. 
 These are mostly guidelines, not rules. 
 
->> Use your best judgment, and feel free to propose changes to this document in a pull request.
+>> As in life: use your best judgment, and feel free to propose changes to this document in a pull request.
 
 In the [README file](https://github.com/GarciaInes/Scrum-Mastery/blob/main/README.md) you will find the purpose and goal of this open project, also brief how to use GitHub.
 Please read the [Code of Conduct](https://github.com/GarciaInes/Scrum-Mastery/blob/main/CODE_OF_CONDUCT.md) and [Licence agreement](https://github.com/GarciaInes/Scrum-Mastery/blob/main/LICENCE.rtfd.zip).
