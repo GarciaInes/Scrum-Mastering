@@ -16,6 +16,7 @@ Thank for new ideas, it's natural and healthy that those emerge!
 * What would be dropped instead at this point?
 
 ### Blocked 
+How collectively found options and opportunities to leverage to move forward towards the common goal.
 * Who could help us with this challenge?
 * Whats the purpose of it?
 * What could help you with this?
