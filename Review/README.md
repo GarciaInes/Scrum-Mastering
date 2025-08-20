@@ -21,7 +21,7 @@ You are looking at 'the What' is being delivered, whislt an opportunity to raise
 
 ## Be concise on updates of Achieved & surface Obstacles
 
-In Review present the results / actual from sprint commitment.
+In Review present the results / actual from sprint commitment
 No mocks
 No presentations
 Just actual real funcitonality ready to deploy
