@@ -7,6 +7,6 @@ Scrum Master Open-Source [Project](https://getagile.co.uk/) by [Ines Garcia](h
 </p>* Share — copy and redistribute the material in any medium or format.
 </p>The licensor cannot revoke these freedoms as long as you follow the license terms.
 </p>Under the following terms:
-</p>* Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-</p>* NonCommercial — You may not use the material for commercial purposes .
+</p>* Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+</p>* NonCommercial — You may not use the material for commercial purposes.
 </p>* NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
