@@ -7,6 +7,7 @@ It's not always easy to adopt or enforce a code of conduct, but fostering a welc
 Check out the Contributor Covenant for guidelines https://www.contributor-covenant.org/
 Which is also maintained as an Open-SourceProject
 We are also guided by the Prime Directive in this open-source project: https://retrospectivewiki.org/index.php?title=The_Prime_Directive\
+All contributions are at individual level and non-promotional.
 
 Be the change you want to see.
 
