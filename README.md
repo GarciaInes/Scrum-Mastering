@@ -51,11 +51,6 @@ Text and markdown files are perfect formats, see here [how to add formatting](ht
 
 #### There isn't a better way to learn than to try!
 
-With the recent release on Github web, once you have your own branch you can just type . (yes a full stop) and will open up this repository on web version that you can work from if you prefer or click 'edit' from this page on your branched version, something like this: 
-</br>
-
-![Sample](https://github.com/GarciaInes/Scrum-Mastering/blob/main/Sample%20Github%20Web.png)
-
-You can also ping me here or at https://twitter.com/inescapinezka OR https://www.linkedin.com/in/inesgarciaagile/ for support if need be!
+You can also ping me here or at https://www.linkedin.com/in/inesgarciaagile/ for support if need be!
 
 **BONUS**: Under 5 minutes food for thought on the "Stop Doing Scrum?!", debunking the myth muddle: [watch](https://www.youtube.com/watch?v=PVWEhnIJJXw)
