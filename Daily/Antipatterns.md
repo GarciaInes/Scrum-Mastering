@@ -2,7 +2,7 @@
 Listing below some anti-patterns (and helpful antidotes!) often observed in teams, feel free to chip in and add to this repo!
 
 ### "Doing"
-Activities and a lot of 'ing' repeating day after day
+During the daily you may hear activities and a lot of 'ing' repeating day after day. Are we finishING and to the goal? 
 * Antidote: Craft a clear goal, tweak the narrative so that each daily is in fact a team alignment to fill the gap on current and meeting the goal. (everything else does not matter)
 * Another Antidote is to rephase the narrative like if it was a retrospective:
     1) what did we set ourselves to do yesterday?
