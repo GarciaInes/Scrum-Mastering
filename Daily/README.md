@@ -1,4 +1,4 @@
-In the Scrum framework the **Daily** (aka Daily Scrum -- often called as Daily standup or Standup) is one of the events keeps all eyes on the goal of your cycle/sprint. You do this evry day during an iteration, let’s say for a weekly one Tuesdays, Wednesdays, Thursdays & Fridays (excluding Monday if its when you have done planning)
+In the Scrum framework the **Daily** (aka Daily Scrum -- often called as Daily Standup or Standup) is one of the events keeps all eyes on the goal of your cycle/sprint. You do this evry day during an iteration, let’s say for a weekly one Tuesdays, Wednesdays, Thursdays & Fridays (excluding Monday if its when you have done planning)
 
 [*Scrum Guide Daily ref*] (https://scrumguides.org/scrum-guide.html#daily-scrum)
 
@@ -15,7 +15,7 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 
 ## Out of sight... out of mind. Reduce deviation focus on the goal
 
-Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
+Daily Scrum events improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
 
 15 mins every day same time same place, run by and for the team, brings clarity and alignment.
 
@@ -26,7 +26,7 @@ Each team member typically answers these 3 questions:
 * Is there something slowing me/us down?
 
 "Tendency to start things.
-Start things it’s easy.
-Finish is not.
+Starting is easy.
+Finishing is not.
 Only finished things bring value.
-Having many in progress things do not" - Ines Garcia
+Many things in progress do not." - Ines Garcia
