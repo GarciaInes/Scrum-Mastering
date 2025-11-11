@@ -1,5 +1,6 @@
 
-As a Scrum Master, you do much more than JUST facilitate the meeting, you are an observer of the system with the aim of helping the system to find its way to be its best. 
+As a Scrum Master, you do much more than JUST facilitate the meeting:
+You are an observer of the system with the aim of helping the system to find its way to be its best. 
 
 Here is a list of questions for you to notice and introspect:
 #### Basics to observe
