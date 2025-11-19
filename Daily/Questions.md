@@ -1,7 +1,7 @@
 ### Towards the goal
 
-* Do we have what we need to get us started
-* What shall we focus on today to achieve the sprint goal
+* Do we have what we need to get us started?
+* What shall we focus on today to achieve the sprint goal?
 * Who would like to champion what?
 * What may slow us down on achiving the sprint goal?
 * How close are we to hitting our sprint goal? 
