@@ -1,4 +1,4 @@
-In the Scrum framework the **Planning** is one of the events that kicksoff each of your cycle/sprint. You do this at the beginning of every iteration, let’s say on Mondays. 
+In the Scrum framework the **Planning** is one of the events that kickstart each cycle/sprint. You do **Planning** at the beginning of every iteration, let’s say on Mondays. 
 
 ## Everybody Has a Plan Until They Get Punched in the Mouth - Mike Tyson
 
