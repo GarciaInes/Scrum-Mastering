@@ -3,7 +3,7 @@
 https://www.scrum.org/resources/what-is-sprint-planning
 
 #### When planning sessions become ultra-marathons<br/>
-Ringfence time, that is capacity tocraft goal and plan what top backlog items are required and feasible to achieve it<br/>
+Ringfence time for the session, that is 1)capacity to craft the goal and 2)plan what top backlog items are required and feasible to achieve it<br/>
 Remove the noise, focus on what matters<br/>
 One dimentional organised list work trhough top until *enough* to consume this cycle<br/>
 The team can always pull more in if finished (fully finished = deployable state by a simple button press)<br/>
