@@ -2,7 +2,7 @@
 ### Seeking clarity
 
 * What are we trying to achieve?
-* What is the need here to meet the aim? (moving to goals/aim rather than instructions/features)
+* What is the need here? does that meet the aim (ie what we are trying to achieve?)? (moving to goals/aim rather than instructions/features)
 * What is this related to? (draw dependencies/impact)
 * Why does this challenge matter? (find purpose)
 
