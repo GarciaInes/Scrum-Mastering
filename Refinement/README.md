@@ -1,4 +1,4 @@
-In the Scrum framework the **Refinenment** is one of the check points added the latests as an often practice that happens couple days before the start of a new cycle/sprint. 
+In the Scrum framework the **Refinenment** is one of the check points added the latests. Is a practice that happens 'just-in-time', works best as recent to the upcoming sprint as possible, sort of a couple days before the start of a new cycle/sprint. 
 There are multiple reasons why is only a couple of days prior new sprint starting (relative to sprint lenght of course!):
 * Reduce context switch and attention diversion from the team.
 * Reduce deviation from a far future.
