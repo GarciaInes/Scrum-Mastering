@@ -9,6 +9,7 @@ If you want to shake things up a bit from routine, which can kill creativity and
 * Which architectural concern, we have not yet looked into?
 
 ### Backlog health
+What to look for within your backlog, worth reocurrence review:
 * Is the backlog visible?
 * Is the backlog ordered in: Importance, Urgency & Return of the effort?
 * Is the backlog relevant & up to date?
