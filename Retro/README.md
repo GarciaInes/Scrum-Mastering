@@ -1,4 +1,4 @@
-In the Scrum framework the **retrospective** is one of the events that is part of amy learning process (I argue here that it should be part of the everyday, regardless of whether you do use Scrum or not). You typically do this at the end of every iteration, let’s say on Fridays. Is one of many feedback loops you want to infuse in a learning system.
+In the Scrum framework the **retrospective** is one of the events that is part/essence of any learning process (I argue here that it should be part of the everyday, regardless of whether you do use Scrum or not). You typically do this at the end of every iteration, let’s say on Fridays. Is one of many feedback loops you want to infuse in a learning system.
 
 ## It’s a time to pause and reflect and act as that learning opportunity.
 
