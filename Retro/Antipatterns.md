@@ -1,4 +1,4 @@
-
+### Antipatterns
 * Ambiguity - not clearly stating the facts
 * Fear of conflict (false sense of harmony)
 * Silent retro - and what is not said
