@@ -1,5 +1,5 @@
 
-Questions in retrospective can make a big difference. 
+Prompting questions in a retrospective session can be a helpful enabler and make a big difference. 
 What you want is to guide the discussion to a place the team haven't been before so that they can access new information. Questions can be very helpful mechanism for this.
 As a scrum master, retrospectives is where you add 'color' but not substance--meaning avoid infusing your opinion, leaving thought process and solution ideas to them.
 
