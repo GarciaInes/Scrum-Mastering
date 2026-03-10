@@ -23,7 +23,7 @@ You are looking at 'the What' is being delivered, whislt an opportunity to raise
 
 In Review present the results / actual from sprint commitment
 No mocks
-No presentations
+No presentations (just demo demo demo)
 Just actual real funcitonality ready to deploy
 Gather feedback 
 Decide next steps (including if to release)
