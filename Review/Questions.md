@@ -1,7 +1,7 @@
 
 ### Feedback
 Prompt thoughts to stakeholders and all who joined the demo review session:
-* How do you feel about this increment? Why is that?
+* How do you feel about this demoed increment? Why is that?
 * What do you think is the next logical step?
 * What do you think is the next fun (customer lovable) enhancement?
 * If you could change one thing, what would it be? why?
