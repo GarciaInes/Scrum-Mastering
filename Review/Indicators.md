@@ -1,6 +1,6 @@
 
 As a Scrum Master, you do much more than JUST facilitate the meeting, you are an observer of the system with the aim to help the system to find it's way to be it's best. 
-And you are definetely not to 'run' the meeting specially it's contents.
+And you are definetely not to 'run'/dictate the meeting, specially it's contents.
 
 > ### "Account for what’s important,
 > ### not just what you can count."
