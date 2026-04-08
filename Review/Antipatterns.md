@@ -1,5 +1,5 @@
 
-### “Sprint Review, Much more than just a demo”, Scrum,  
+### “Sprint Review, Much more than just a demo”, Scrum.org  
 https://www.scrum.org/resources/blog/sprint-review-much-more-just-demo
 
 Things to watch out for
