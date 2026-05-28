@@ -7,7 +7,7 @@ labels: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is. 
+Please add a clear and concise description of what the bug is. 
 Current logic and expected, including the reasoning.
 
 **To Reproduce**
