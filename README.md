@@ -1,10 +1,14 @@
 # Scrum-Mastering
 
+## What is Scrum-Mastering?
+
+Scrum-Mastering is a community-driven collection of practical Scrum facilitation techniques, questions, anti-patterns, indicators, and learning resources organized by Scrum events and activities. It helps Scrum Masters, Agile Coaches, Product Owners, and teams learn from real-world experience.
+
 <br>
 Back in 1st Nov 2023, we've got a Github badge for repo with many stars! THANK YOU. </br>
 Celebrate and share the collective knowledge with others, it's FREE!!! </br>
 <br>
-<br>First of all, THANK YOU for considering contributing to Scrum-Mastery:
+<br>And THANK YOU for considering contributing to Scrum-Mastery:
 
 ## THE Open-source project in GitHub for Scrum Masters to chip in add additions to it > to help &amp; learn from each other with the Scrum Framework.
 
