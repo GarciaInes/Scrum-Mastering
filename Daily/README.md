@@ -13,7 +13,8 @@ A Daily Scrum is there to inspect progress toward the Sprint Goal & adapt the Sp
 * Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/8244d30191f7262a0933d60a65da2515290086cd/Daily/Antipatterns.md)
 
 
-## Out of sight... out of mind. Reduce deviation focus on the goal
+## Out of sight... out of mind. 
+### Reduce deviation focus on the goal
 
 Daily Scrum events improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings.
 
