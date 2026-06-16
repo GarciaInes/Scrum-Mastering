@@ -21,7 +21,7 @@
 ### Diversion
 * What we need to discuss after the daily?
 * Who knows about XYZ to support *bob*?
-* Let me pause there, here is the challenge: update on content of your achievements and plans towards the goal in 2 sentences?
+* Let me pause there, here is the aim: update on what have you achieved and remaining plans towards the goal 'in 2 sentences?
 * Scope & bureaucracy creep are snapped nice & early
 * What is one thing that would allow us to have more creative headspace and reduce noise this week?
 
