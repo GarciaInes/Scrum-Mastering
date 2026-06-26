@@ -12,6 +12,7 @@ Here is a list of questions for you to notice and introspect:
 * Concise updates on what was achieved last 24h & plan to Finish next 24h?
 * Gives clarity & progress as a whole towards the common goal
 * Are problems & impediments being surfaced?
+* The Energy in the Room: Beyond what's said, notice how it's said. Flat, monotone updates can signal disengagement even when the words are technically fine. Conversely, a team that laughs, challenges each other lightly, or shows curiosity is usually psychologically safe enough to surface real problems.
 
 #### Measure
 * Do they encourage each other to share work early, rather than wait for 'perfect'?
