@@ -27,6 +27,9 @@ When team members talks about their ticket, their bit, you can observe the behav
 Playing bingo calling ticket numbers rather than mentioning the value work
 * Antidote: shift to talk on what we work on, how could we help each other as we understandibly dont clutter our brain memorising useless ticket numbers. Talk VALUE to me.
 
+### Dependency Directiom
+When someone flags a blocker, notice who they're looking at? If eyes go up (to a lead or SM or the ceiling) rather than across (to teammates), that can be a signal the team isn't yet self-organising around problems nor ready to help each other out (ie lack of accountability towards the goal)
+
 ### Problem Solving
 Avoid jumping into solutionsing, pointers are useful, yet dont deviate
 * Antidote: it's ok to have a further discusion in depth after daily once the team has aligned for the next 24h
