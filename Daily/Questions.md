@@ -1,5 +1,6 @@
 ### Towards the goal
 
+* Is the Sprint Goal mentioned at all — or has it quietly disappeared into a list of tasks?
 * Do we have what we need to get us started?
 * What shall we focus on today to achieve the sprint goal?
 * Who would like to champion what?
