@@ -3,6 +3,14 @@ As a Scrum Master, you do much more than JUST facilitate the meeting:
 </p>You are an observer of the system with the aim of helping the system to find its way to be its best.</p> 
 
 Here is a list of questions for you to notice and introspect:
+
+#### 2 Key Clues:
+* If the Scrum Master didn't attend tomorrow, would the Daily still be just as effective? </p>
+If the answer is yes, the team has reached a high level of self-management. If not, it often points to hidden dependencies on facilitation, coordination, or decision-making that the team hasn't yet internalized.
+
+* Did the Daily change today's plan? </p>
+If the answer is consistently "no," the meeting may have become a status-reporting ceremony rather than an inspect-and-adapt event. The purpose of the Daily Scrum isn't to report progress; it's to help the Developers inspect progress toward the Sprint Goal and adapt their plan for the next 24 hours.
+
 #### Basics to observe
 * within 15 mins?
 * punctual? members joining on time and wrapping on time?
