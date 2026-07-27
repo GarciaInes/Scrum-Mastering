@@ -20,6 +20,10 @@ If the team is unclear on what they need to do, this can lead to misunderstandin
 Antidote: Work on your refinement. Poorly defined user stories or acceptance criteria hinders along the way.<br/>
 Antidote: Try practices like 'the 3 amigos' 2 short touch points to align and surface considerations.<br/>
 
+#### Starting over finishing<br/>
+The Sprint is planned so everyone is busy from Day 1 instead of ensuring work reaches Done. <br/>
+Antidote: Plan for flow. Finished work delivers value; work in progress only accumulates risk. <br/>
+
 #### Draining Planning talking about to far off potential future<br/>
 Instead of old-school upfront detail planning goes to the bin, bye bye!<br/> 
 We can’t predict the future and we know that things are going to change, so there is no point in investing time, effort or intelligence in that. <br/>
