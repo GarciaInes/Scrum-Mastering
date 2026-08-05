@@ -55,10 +55,12 @@ What is stopping us to pick the next item from the top? (growing opportunity)<br
 ## “We plan, but recognize the limits of planning in a turbulent environment.” - Agile Manifesto
 
 ### WATCH OUT
-* Group Think
-* Shopping List
-* Lack of goal / clear direction
-* Ends with a confused team (watch non verbal)
-* Team members are holding back from one another
-* Sense of artificial harmony
-* Higher entity assigning tickets
+* Shopping list instead of Sprint Goal
+* Groupthink ("Everyone agrees" too quickly)
+* Product Owner assigning work
+* Silent team members
+* Optimism replacing evidence
+* Planning around people instead of outcomes
+* No discussion of risks or dependencies
+* Work starts easily but little reaches Done
+* The team leaves without confidence or shared understanding
