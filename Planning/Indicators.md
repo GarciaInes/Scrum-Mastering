@@ -13,6 +13,8 @@ Here a list of questions for you to notice, instrospect and ouutline what is to 
 * Gives clarity & progress as a whole towards the common goal
 * How do we approach conflicts or disagreements? is it in a constructive manner? seeking resolutions that benefit the team and the project?
 * Are members engaged? participative and attentive throughout the session?
+* Is the Sprint Goal referenced? or has it quietly dissolved into a task list?
+* What's not said? Silence on a complex or high-risk item is often more telling
 
 #### Measure
 * Are team members surface when is not clear the progress/feasibility of that common goal?
