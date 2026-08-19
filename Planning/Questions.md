@@ -13,6 +13,7 @@
 * Do we have enough to get started?
 * What can we show as a working product on Friday?
 * How could easiest document what we are about to do?
+* Is this in line with our sprint goal?
 
 #### Part of Planning is estimating, beware ideal time and elapsed time are different things. 
 * Use relative estimation (not absolute) then compare to others, is this bigger or smaller? fetch input from all not just louder voices
