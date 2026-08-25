@@ -87,4 +87,8 @@ Nipping this out not only helps teams stay on track and maintain their focus thr
 . Simplify decision-making processes. Often, much of the energy gets drained with this or with how it is perceived. </br>
 . Limits: Work in Progress (WIP) limits to restrict the number of tasks or user stories that team members can work on simultaneously. </br>
 
+#### Overtime patterns
+Does the "Update" pattern over time show streaks? i.e same person blocked, same dependency surfacing, same task mentioned three days running? Single dailies tell you little; the sprint-long pattern tells you a lot.
+* Antidotes: </br>
+. Call it out, ask about it, with curiosity over blame.
 
