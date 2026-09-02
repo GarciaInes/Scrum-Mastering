@@ -18,6 +18,7 @@ Covering: </br>1) Why is this Sprint valuable? </br>& </br>2) What can be Done i
 
 * Things to be careful of, aka [**Antipatterns**](https://github.com/GarciaInes/Scrum-Mastering/blob/6d9b8f6f2834bf020a88d474d4e68d49c53b4bfa/Planning/Antipatterns.md)
 
+The Scrum Master presence is for facilitation, protecting the timebox, sensing when the team is over-committing or being overly conservative, noticing when the PO is dominating etc, details are in each of the noted files above.
 
 ## "In preparing for battle I have always found that plans are useless, but planning is indispensable." - Dwight D. Eisenhower
 
