@@ -1,8 +1,13 @@
 
 Here we go, we are listing below some of the anti-patterns often observed in teams on the Refinement ceremony/activity
+
 ### No Routine
 There isn't a rythm on when what how who. Which can also be seen as the PO is unavailable or "we are too busy, lets cancel and look in planning' etc etc
 * Antidote: Get that muscle memory going! Same time, same place, for & by the team, so that they are ready for alignment.
+
+### Refinement as Mini-Planning
+The session is spent on deciding what and how will go into the Sprint
+* Antidote: We are after 'enough understanding' and discussing options. Keep the distinction clear (see also Fuzzy Future)
 
 ### Fuzzy Future
 Looking at things are not inmediate too far out, convolutes the goal at hand. Revisign the product vision is helpful but avoid unnecesary uncertainly and wishes/predicions too far into the future.
