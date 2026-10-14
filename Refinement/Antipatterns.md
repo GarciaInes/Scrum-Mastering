@@ -16,6 +16,9 @@ Looking at things are not inmediate too far out, convolutes the goal at hand. Re
 ### Problem Solving
 Avoid jumping into solutionsing, pointers are useful, yet dont deviate
 * Antidote: the aim of refinement is undersatand the aim, ask questions, clarify items and gaps, so that pending information and decisions can be gathered 'just in time' for start of new sprint.
+* Antidote: Start with who needs what, why, and what outcome are we trying to enable?
+* Explore enough of the solution to expose uncertainty, dependencies and feasibility, but don't design every detail before the work starts.
+* Leave room for the people doing the work to make implementation decisions.
 
 ### No Red Dots
 *Wikipedia*: A red dot sight is a common classification for a type of non-magnifying reflector sight for firearms, and other devices that require aiming, that gives the user a point of aim in the form of an illuminated red dot.
