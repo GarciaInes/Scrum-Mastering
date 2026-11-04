@@ -18,6 +18,7 @@ Here a list of questions for you to notice and instrospect:
 * Are the product increment items not ready moved out
 * Are the very big items sliced so that can be consumed in digestable pieces?
 * Scope & bureaucracy creep are snapped nice & early
+* Is the team confusing having enough clarity to start with having a fully designed solution?
 
 #### Team self-awareness
 * Does the team leave energised?
