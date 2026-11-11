@@ -26,5 +26,11 @@ Here a list of questions for you to notice and instrospect:
 * The team adjust & offers help when items are slowing the aim down
 * Do we hold each other accountable, for what we agreed to do from refinement session??
 
-At the end of the day, Refinement is there as a brief touch point for checking the very top backlog items, surface questions and 'polish up' whats coming to ensure is ready for the team to be able to work on it. 
-* Is this happening?
+<br>
+At the end of the day, Refinement is there to create shared understanding of the most relevant upcoming work, surface uncertainties, explore options and ensure that the team has enough information to make informed decisions when planning and delivering.<br>
+It is not about predicting everything, documenting everything or eliminating every unknown. It's about getting the right things ready, just in time, without wasting collective intelligence on work that may never happen.<br>
+* Is this happening?<br>
+* Are we reducing uncertainty or simply generating more documentation?<br>
+* Does the team leave with a clearer understanding of what matters and why?<br>
+* Are the right questions being asked, and the unanswered ones followed up?<br>
+* Are we preparing to deliver value, rather than preparing to keep busy?<br>
